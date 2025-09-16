@@ -56,6 +56,3 @@
 
 # Contenido
 
-
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](docs/Chapter-V.md/#5217-software-deployment-evidence-for-sprint-review-)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](docs/Chapter-V.md/#5218-team-collaboration-insights-durint-sprint-)
