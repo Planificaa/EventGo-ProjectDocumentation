@@ -95,7 +95,6 @@ Para el desarrollo de las entrevistas de los segmentos objetivos, se redactaron 
 * ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
 * ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
 * ¿Qué le gustaría automatizar o simplificar de su trabajo?
-  
 
 **Preguntas Complementarias:**
 
@@ -103,14 +102,46 @@ Para el desarrollo de las entrevistas de los segmentos objetivos, se redactaron 
 * ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
 * ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Como las resolvió?
 
+</br>
 
 ### 2.2.2. Registro de entrevistas ###
 
 A continuación, se mostrará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada una incluirá una captura de pantalla como evidencia y el intervalo de tiempo correspondiente en el video, para facilitar su ubicación.
 
+</br>
+
 **Segmento objetivo 1: Anfitriones de Evento**
 
-**Entrevista 1: Cenith Luque García**
+**Entrevista 1: Piero**
+
+<img src="" alt="user-interview-screenshot">
+
+**Datos del entrevistado**
+* **Nombre:** Piero
+* **Edad:** 23 años 
+* **Estado civil:** Soltero
+* **Ocupación:** Comerciante
+* **Distrito de Residencia:** Chorrillos
+
+*  **Video de la entrevista:**  [Interview Link]()
+
+**Resumen de la entrevista:**
+
+El entrevistado se llama Piero, tiene 23 años, es una persona sobria, directa y de pocas palabras. Actualmente se encuentra soltero, reside en Chorrillos y trabaja como comerciante. El navegador que utiliza con frecuencia es Google Chrome y su dispositivo preferido es el celular.
+
+Durante la entrevista, Piero relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hermana. La planificación del evento duró aproximadamente 10 meses. Como anfitrión, demostró pensamiento crítico al solicitar varias cotizaciones con diferentes proveedores antes de tomar una decisión. Finalmente, optó por contratar al organizador recomendado por un familiar, valorando la confianza que este le generaba y considerando que las propuestas recibidas eran similares. Además, evaluó cuidadosamente los videos de eventos anteriores publicados por el organizador en redes sociales, lo cual reforzó su elección.
+
+Durante la planificación, aunque la comunicación inicial con el organizador fue limitada, supo adaptarse y mantener una comunicación efectiva a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Esta disposición muestra su capacidad para colaborar activamente en momentos clave del proceso. También comentó que lo más estresante fue el periodo cercano al evento, ya que sentía presión por la posibilidad de que algo pudiera faltar. Esta preocupación evidencia una actitud empática hacia los invitados y hacia el éxito general del evento.
+
+Respecto al desarrollo del evento, señaló que le hubiera gustado que se explicara con mayor claridad el tema del volumen de la música, debido a las restricciones del local ubicado en una zona de condominios. También expresó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no. Estas observaciones reflejan su pensamiento crítico al identificar áreas de mejora y su empatía hacia los asistentes, al preocuparse por su experiencia durante la celebración.
+
+En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, Piero optó por realizar pagos periódicos, mostrando así iniciativa y colaboración para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago, lo que demuestra una actitud responsable y organizada.
+
+A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
+
+</br>
+
+**Entrevista 2: Cenith Luque García**
 
 <img src="" alt="user-interview-screenshot">
 
@@ -121,7 +152,7 @@ A continuación, se mostrará un resumen de cada entrevista realizada a los segm
 * **Ocupación:** Militar del ejército peruano
 * **Distrito de Residencia:** Lima - Chorrillos
 
-*  **Video de la entrevista:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
+*  **Video de la entrevista:**  [Interview Link]()
 
 **Resumen de la entrevista:**
 
@@ -137,7 +168,34 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 </br>
 
-**Segmento objetivo 2: Organizadores de Evento**
+**Entrevista 3: Diego Vilca**
+
+<img src="" alt="user-interview-screenshot">
+
+**Datos del entrevistado:**
+* **Nombre:** Diego Vilca
+* **Edad:** 22 años
+* **Estado civil:** Soltero
+* **Ocupación:** Organizador de eventos
+* **Distrito de Residencia:** Santiago de Surco
+
+*  **Video de las entrevistas:**  [Interview Link](https://drive.google.com/file/d/14KwVYvcFxHrak4YvyJrpmBRrOJWtJX3j/view?usp=sharing)
+
+**Resumen de la entrevista:**
+
+Diego Vilca es un joven de 22 años, estudiante de Medicina Veterinaria y residente en Santiago de Surco, Lima. Se describe como una persona empática, responsable y proactiva. Aunque no se dedica profesionalmente a la organización de eventos, tuvo la experiencia de apoyar en la planificación de una celebración familiar: el cumpleaños número 80 de su abuela.
+
+Durante el proceso, fue él quien mantuvo la comunicación con el organizador contratado, a quien conoció a través de TikTok. Antes de elegirlo, consultó con otros, pero se decidió por su creatividad y responsabilidad. La planificación tomó alrededor de dos meses y medio, en los que se coordinó principalmente por WhatsApp y algunas llamadas. Sin embargo, Diego señaló que la comunicación fue regular, ya que el organizador no siempre respondía de manera oportuna, lo que generaba dudas.
+
+Uno de los problemas más notorios fue la disposición de las mesas, que quedaron demasiado juntas, algo que no se revisó adecuadamente en la planificación. Además, Diego comentó que le resultó confuso entender las diferencias de precio entre distintos organizadores, pues algunos cobraban más sin que quedara claro qué incluían esos montos adicionales.
+
+En cuanto al aspecto financiero, el pago se realizó con un adelanto del 25% al inicio y el 75% al finalizar, exclusivamente mediante transferencias bancarias, lo que facilitó el control de los pagos. Sin embargo, surgieron gastos imprevistos durante el evento debido a daños ocasionados por algunos invitados.
+
+Si bien valoró el hecho de no tener que preocuparse por la logística porque el organizador se encargaba de ello, Diego considera que su idea del evento no fue entendida en su totalidad. Por ello, no recomendaría volver a contratar al mismo organizador, principalmente por la falta de experiencia demostrada y las deficiencias en la comunicación. Lo que más le frustró fue la poca claridad en las respuestas del organizador, aunque destacó como positivo la facilidad en la gestión de pagos.
+
+</br>
+
+**Segmento objetivo 2: Organizadores de Eventos**
 
 **Entrevista 4: Teodoro Paico Sernaqué**
 
@@ -147,10 +205,10 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 * **Nombre:** Teodoro Paico Sernaqué
 * **Edad:** 54 años
 * **Estado civil:** Conviviente
-* **Ocupación:** Organizador de eventos.
+* **Ocupación:** Organizador de eventos
 * **Distrito de Residencia:** La Unión - Piura
 
-*  **Video de las entrevistas:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
+*  **Video de las entrevistas:**  [Interview Link]()
 
 **Resumen de la entrevista:**
 
@@ -166,7 +224,66 @@ En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un
 
 Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
 
+</br>
+
+**Entrevista 5: Yadhir**
+
+<img src="" alt="user-interview-screenshot">
+
+**Datos del entrevistado:**
+* **Nombre:** Yadhir
+* **Edad:** 22 años
+* **Estado civil:** Soltero
+* **Ocupación:** Organizador de eventos
+* **Distrito de Residencia:** Villa el Salvador
+
+*  **Video de las entrevistas:**  [Interview Link]()
+
+* **Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una productora que se especializa en el rubro audiovisual. Se describe como una persona creativa, apasionada y responsable. Tiene preferencias por utilizar WhatsApp, una laptop y Safari como navegador web.
+
+Durante la entrevista, compartió cómo entró al mundo de la organización de eventos hace 3 años gracias a su tío, quien lo llamó para que lo apoyara. Desde entonces ha continuado en este negocio y actualmente cuenta con su propia productora.
+
+Con mayor frecuencia suele organizar eventos como bodas y quinceañeros, llegando a gestionar en promedio 3 eventos mensuales.
+
+En los eventos que organiza, ofrece paquetes de servicios que facilitan la contratación y el manejo de servicios de terceros. Además, mantiene comunicación constante con el cliente para informar sobre los procesos que se están llevando a cabo en la organización del evento.
+
+Para la gestión de pagos, normalmente trabaja con un 50% de adelanto y un 50% al finalizar. Dispone de una cuenta bancaria específica para su trabajo, por lo que generalmente utiliza depósitos, aunque también ofrece alternativas como Yape si el presupuesto lo permite.
+
+Considera que un aspecto que le gustaría automatizar es la organización de contactos o una agenda, ya que actualmente lo maneja de manera desordenada. Esto le ha dificultado trabajar con terceros, motivo por el cual decidió abrir su propia productora audiovisual.
+
+</br>
+
+**Entrevista 6: Sara Goveya**
+
+<img src="" alt="user-interview-screenshot">
+
+**Datos del entrevistado:**
+* **Nombre:** Sara Goveya
+* **Edad:** 34 años
+* **Estado civil:** Casada
+* **Ocupación:** Organizador de eventos
+* **Distrito de Residencia:** Surco
+
+*  **Video de las entrevistas:**  [Interview Link]()
+
+* **Resumen de la entrevista:**
+
+La entrevistada, de actualmente 34 años, es dueña de una empresa de publicidad y eventos con 18 años de experiencia en el rubro y 4 años liderando su propia empresa. Su nombre es Sara Goveya, y se describe como una persona perseverante, capaz y disruptiva, destacando su enfoque innovador en la organización de eventos. Está casada y su negocio se enfoca tanto en eventos corporativos como sociales.
+
+Sara identificó una gran demanda en el sector, ya que muchas empresas suelen tercerizar la planificación de eventos. Al notar esta necesidad, decidió especializarse y cubrir ese nicho de mercado. Captar clientes no ha sido un problema para ella: su principal canal de contacto es Facebook Marketplace, aunque también usa el boca a boca, contactos directos y redes como WhatsApp. Incluso ha trabajado con marcas grandes.
+
+La mayoría de los eventos que organiza son corporativos, incluyendo activaciones de marca y algunos eventos sociales. Su empresa desarrolla aproximadamente dos eventos grandes por mes, manteniendo así una carga de trabajo equilibrada. Ha realizado celebraciones que van desde 20 hasta 200 personas, con presupuestos que oscilan entre los S/15,000 y S/25,000 para eventos sociales, y hasta S/100,000 para eventos corporativos.El proceso de organización comienza con un primer contacto en el que se recogen datos clave como tipo de evento, presupuesto y fecha. Una vez aceptada la propuesta, se solicita un adelanto del 50% para iniciar la producción. La etapa de preproducción suele durar entre dos a cuatro días.
+
+Los clientes valoran principalmente su atención personalizada y la calidad del servicio. Ha recibido comentarios positivos sobre su dedicación y la excelencia del producto final. Sin embargo, señala que la falta de organización por parte de algunos clientes puede ser frustrante, especialmente cuando hay varias personas involucradas en la toma de decisiones.
+
+Finalmente, Sara reconoce que no está del todo satisfecha con su flujo actual de ventas. Cree firmemente que su servicio es de alta calidad, pero menciona la falta de personal y las barreras de comunicación como obstáculos para llegar a más clientes.
+
+
 ### 2.2.3. Análisis de entrevistas ###
+
+Las entrevistas nos revelan que los anfitriones valoran la confianza y la claridad en la organización de sus eventos, planifican los pagos y esperan que el resultado refleje su visión; sin embargo, se frustran cuando la comunicación es lenta o los detalles logísticos no quedan del todo claros. Por su parte, los organizadores buscan ofrecer un servicio de calidad y rentable, pero enfrentan retos como clientes que cambian de idea, demoras en los pagos y la falta de automatización en su gestión interna. Ambos coinciden en que una comunicación constante y bien estructurada es fundamental, y una herramienta que centralice información, pagos y seguimiento de avances podría satisfacer las principales necesidades de ambos segmentos.
 
 ## _2.3. Needfinding_ ##
 
