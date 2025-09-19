@@ -16,7 +16,51 @@ Para el desarrollo de las entrevistas de los segmentos objetivos, se redactaron 
 
 </br>
 
-**Segmento objetivo 1: Organizadores de eventos no masivos:**
+**Segmento objetivo 1: Anfitriones de Eventos**
+
+**Preguntas Demográficas**
+
+* ¿Cuál es su nombre?
+* ¿Qué edad tiene?
+* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cuál es su estado civil?
+* ¿A qué se dedicas?
+* ¿En qué distrito/provincia reside?
+
+**Preguntas de Hábitos Digitales**
+
+* ¿Por medio de que navegador web contacto con el organizador?
+* ¿Cuál es el dispositivo que utiliza con mayor frecuencia (laptop, Tablet, celular, computadora)?
+
+**Preguntas Principales**
+
+* ¿Alguna vez has contratado a algún organizador de eventos?
+* ¿Cuál fue el último evento que contrato?
+* ¿Con cuánto tiempo de anticipación comenzó a planearlo?
+* ¿Como encontró al organizador de eventos? (Redes sociales, contactos, página web).
+* ¿Qué factores considero para contratar a un organizador de eventos?
+* ¿Solicito cotizaciones a diversos organizadores antes de decidir?
+* ¿Hubo algo que le costó entender o comparar entre los diferentes servicios? ¿Si es así cuáles?
+* ¿Cómo considera que fue la comunicación con el organizador y con qué frecuencia?
+* ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
+* ¿Hubo algo que le hubiera gustado que le expliquen mejor?
+* ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
+* ¿Como fue el proceso de cotización y pagos? ¿Porque medios fue realizado el pago?
+* ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
+
+**Preguntas Complementarias**
+
+* ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
+* ¿Qué fue lo más satisfactorio de todo el proceso?
+* Que fue lo mas frustrante/estresante de todo el proceso de planificación junto con su organizador?
+* ¿Le pareció correcto el costo del evento?
+* ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
+* ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
+* ¿Pudo hacer seguimiento al estado de pagos fácilmente?
+
+</br>
+
+**Segmento objetivo 2: Organizadores de eventos**
 
 **Preguntas Demográficas:**
 
@@ -59,49 +103,6 @@ Para el desarrollo de las entrevistas de los segmentos objetivos, se redactaron 
 * ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
 * ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Como las resolvió?
 
-</br>
-
-**Segmento objetivo 2: Anfitriones de Eventos**
-
-**Preguntas Demográficas**
-
-* ¿Cuál es su nombre?
-* ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
-* ¿Cuál es su estado civil?
-* ¿A qué se dedicas?
-* ¿En qué distrito/provincia reside?
-
-**Preguntas de Hábitos Digitales**
-
-* ¿Por medio de que navegador web contacto con el organizador?
-* ¿Cuál es el dispositivo que utiliza con mayor frecuencia (laptop, Tablet, celular, computadora)?
-
-**Preguntas Principales**
-
-* ¿Alguna vez has contratado a algún organizador de eventos?
-* ¿Cuál fue el último evento que contrato?
-* ¿Con cuánto tiempo de anticipación comenzó a planearlo?
-* ¿Como encontró al organizador de eventos? (Redes sociales, contactos, página web).
-* ¿Qué factores considero para contratar a un organizador de eventos?
-* ¿Solicito cotizaciones a diversos organizadores antes de decidir?
-* ¿Hubo algo que le costó entender o comparar entre los diferentes servicios? ¿Si es así cuáles?
-* ¿Cómo considera que fue la comunicación con el organizador y con qué frecuencia?
-* ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
-* ¿Hubo algo que le hubiera gustado que le expliquen mejor?
-* ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
-* ¿Como fue el proceso de cotización y pagos? ¿Porque medios fue realizado el pago?
-* ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
-
-**Preguntas Complementarias**
-
-* ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
-* ¿Qué fue lo más satisfactorio de todo el proceso?
-* Que fue lo mas frustrante/estresante de todo el proceso de planificación junto con su organizador?
-* ¿Le pareció correcto el costo del evento?
-* ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
-* ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
-* ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas ###
 
@@ -109,15 +110,9 @@ A continuación, se mostrará un resumen de cada entrevista realizada a los segm
 
 **Segmento objetivo 1: Anfitriones de Evento**
 
-</br>
-
 **Entrevista 1: Cenith Luque García**
 
-</br>
-
 <img src="" alt="user-interview-screenshot">
-
-</br>
 
 **Datos del entrevistado**
 * **Nombre:** Cenith Luque García
@@ -140,17 +135,13 @@ Durante el desarrollo del evento, Cenith sintió cierta frustración por los tie
 
 Finalmente, la entrevistada afirmó que recomendaría al organizador del evento, destacando su profesionalismo y cumplimiento. También subrayó que una planificación adecuada, una comunicación constante y una buena gestión financiera son claves para llevar a cabo un evento exitoso.
 
-**Segmento objetivo 2: Organizadores de Evento**
-
 </br>
+
+**Segmento objetivo 2: Organizadores de Evento**
 
 **Entrevista 4: Teodoro Paico Sernaqué**
 
-</br>
-
 <img src="" alt="user-interview-screenshot">
-
-</br>
 
 **Datos del entrevistado:**
 * **Nombre:** Teodoro Paico Sernaqué
