@@ -105,6 +105,76 @@ Para el desarrollo de las entrevistas de los segmentos objetivos, se redactaron 
 
 ### 2.2.2. Registro de entrevistas ###
 
+A continuación, se mostrará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada una incluirá una captura de pantalla como evidencia y el intervalo de tiempo correspondiente en el video, para facilitar su ubicación.
+
+**Segmento objetivo 1: Anfitriones de Evento**
+
+</br>
+
+**Entrevista 1: Cenith Luque García**
+
+</br>
+
+<img src="" alt="user-interview-screenshot">
+
+</br>
+
+**Datos del entrevistado**
+* **Nombre:** Cenith Luque García
+* **Edad:** 39 años 
+* **Estado civil:** Casada
+* **Ocupación:** Militar del ejército peruano
+* **Distrito de Residencia:** Lima - Chorrillos
+
+*  **Video de la entrevista:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
+
+**Resumen de la entrevista:**
+
+La entrevistada se llama Cenith Luque García. Se describe como una mujer comprometida y responsable, cualidades que considera fundamentales para el éxito en la organización de eventos. Durante la entrevista, compartió su experiencia al organizar un evento para el Ejército Peruano, específicamente un almuerzo conmemorativo por el 145 aniversario del arma de ingeniería. Actualmente, Cenith utiliza redes sociales como Facebook e Instagram para establecer contactos profesionales, lo cual le permitió comunicarse inicialmente con el cliente.
+
+La planificación del evento se desarrolló con anticipación y requirió un trabajo constante de coordinación. Desde el inicio, la comunicación con el cliente se dio por mensajes, para luego pasar a reuniones presenciales con el objetivo de alinear expectativas y definir detalles. Uno de los temas que generó confusión fue el de la decoración, por lo que se necesitó mayor explicación para evitar malentendidos. Cenith resaltó la importancia de contar con una buena comunicación para que tanto el organizador como el cliente estén en sintonía.
+
+En cuanto a los aspectos formales, se firmó un contrato que detallaba los servicios acordados, y los pagos se realizaron mediante transferencias bancarias. Este procedimiento, según la entrevistada, brindó seguridad a ambas partes. Además, se llevó un seguimiento ordenado de los pagos, lo cual contribuyó a generar confianza en el proceso.
+
+Durante el desarrollo del evento, Cenith sintió cierta frustración por los tiempos de ejecución, ya que no se cumplieron tal como habían sido planeados. A pesar de ello, se mostró satisfecha con el resultado final, pues la organización comprendió correctamente la visión general del evento. Consideró que el costo fue razonable y que lo más importante era lograr una experiencia de calidad, sin enfocarse exclusivamente en el presupuesto.
+
+Finalmente, la entrevistada afirmó que recomendaría al organizador del evento, destacando su profesionalismo y cumplimiento. También subrayó que una planificación adecuada, una comunicación constante y una buena gestión financiera son claves para llevar a cabo un evento exitoso.
+
+**Segmento objetivo 2: Organizadores de Evento**
+
+</br>
+
+**Entrevista 4: Teodoro Paico Sernaqué**
+
+</br>
+
+<img src="" alt="user-interview-screenshot">
+
+</br>
+
+**Datos del entrevistado:**
+* **Nombre:** Teodoro Paico Sernaqué
+* **Edad:** 54 años
+* **Estado civil:** Conviviente
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** La Unión - Piura
+
+*  **Video de las entrevistas:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EawraYRD3sVOubX0Z4vy5jYBfpSgHPDrsez9nogb8Krr2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gi6qqk)
+
+**Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
+
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos. 
+
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas, siendo WhatsApp su canal principal. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+
+Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
+
+En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un abono del 50% por adelantado y el saldo restante al finalizar el evento. Los medios de pago más utilizados son transferencias bancarias y efectivo.
+
+Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
+
 ### 2.2.3. Análisis de entrevistas ###
 
 ## _2.3. Needfinding_ ##
