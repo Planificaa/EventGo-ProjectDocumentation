@@ -8,7 +8,7 @@
 
 ## _2.2. Entrevistas_ ##
 
-En esta sección se analizarán las estrategias y tácticas destinadas a aprovechar las debilidades de los competidores y contrarrestar sus fortalezas. Asimismo, se evaluarán las oportunidades y amenazas que puedan representar.
+ En esta sección se analizarán las estrategias y tácticas destinadas a aprovechar las debilidades de los competidores y contrarrestar sus fortalezas. Asimismo, se evaluarán las oportunidades y amenazas que puedan representar.
 
 ### 2.2.1. Diseño de entrevistas ###
 
@@ -199,7 +199,7 @@ Si bien valoró el hecho de no tener que preocuparse por la logística porque el
 
 **Entrevista 4: Teodoro Paico Sernaqué**
 
-<img src="" alt="user-interview-screenshot">
+![entrevista-organizador-1.png](../img/Chapter%20II/entrevista-organizador-1.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Teodoro Paico Sernaqué
