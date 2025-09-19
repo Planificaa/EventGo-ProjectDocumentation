@@ -12,6 +12,8 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 
 ![Impact-map-anfitrion.png](../img/Chapter%20III/Impact-map-anfitrion.png)
 
+***Segmento: Organizador***
 
+![Impact-map-organizador.png](../img/Chapter%20III/Impact-map-organizador.png)
 
 ## _3.4. Product Backlog_ ##
