@@ -15,7 +15,7 @@ El color principal del logo es un tono verde claro y vibrante que destaca sobre 
 
 **Typography**
 
-La tipografía principal de Eventify es Poppins, una fuente sans-serif moderna y amigable que aporta claridad, equilibrio visual y un toque contemporáneo a la experiencia del usuario.
+La tipografía principal de EvenGo es Poppins, una fuente sans-serif moderna y amigable que aporta claridad, equilibrio visual y un toque contemporáneo a la experiencia del usuario.
 
 Elegida por su legibilidad y estética geométrica, Poppins permite mantener un diseño limpio, funcional y coherente en todos los tamaños de pantalla.
 
@@ -23,7 +23,7 @@ Elegida por su legibilidad y estética geométrica, Poppins permite mantener un 
 
 Colors
 
-La paleta de colores de Eventify combina profesionalismo, frescura y dinamismo, reforzando el enfoque moderno y accesible de la plataforma.
+La paleta de colores de EvenGo combina profesionalismo, frescura y dinamismo, reforzando el enfoque moderno y accesible de la plataforma.
 
 ![Colors.png](../img/Chapter%20IV/Colors.png)
 
@@ -45,7 +45,7 @@ La comunicación está diseñada para ser cercana, clara y con un toque entusias
 <br>
 
 ### 4.1.2. Web Style Guidelines ###
-La interfaz web de Eventify está diseñada bajo principios de diseño responsive, garantizando una experiencia de usuario óptima en todos los dispositivos, desde smartphones hasta pantallas de escritorio. El objetivo es ofrecer una navegación fluida, intuitiva y visualmente coherente.
+La interfaz web de EvenGo está diseñada bajo principios de diseño responsive, garantizando una experiencia de usuario óptima en todos los dispositivos, desde smartphones hasta pantallas de escritorio. El objetivo es ofrecer una navegación fluida, intuitiva y visualmente coherente.
 
 Para organizar el contenido se utilizó el patrón en Z, un esquema visual que guía naturalmente la mirada del usuario desde la parte superior izquierda hasta la inferior derecha, ideal para estructurar información de forma clara y persuasiva.
 
