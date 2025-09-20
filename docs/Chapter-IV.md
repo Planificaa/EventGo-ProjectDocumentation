@@ -11,7 +11,7 @@ La identidad visual de EvenGo transmite claridad, organización y confianza desd
 
 El color principal del logo es un tono verde claro y vibrante que destaca sobre distintos fondos, y que transmite frescura, dinamismo
 
-![EvenGO-logo.png](../img/Chapter%20IV/EvenGO-logo.png)
+![EventGo-logo.png](../img/Chapter%20IV/EventGo-logo.png)
 
 **Typography**
 
