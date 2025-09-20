@@ -143,7 +143,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 **Entrevista 2: Cenith Luque García**
 
-<img src="" alt="user-interview-screenshot">
+<img src="/img/Chapter%20II/entrevista-anfitrion-1.png" alt="entrevista-anfitrion-1">
 
 **Datos del entrevistado**
 * **Nombre:** Cenith Luque García
@@ -152,7 +152,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 * **Ocupación:** Militar del ejército peruano
 * **Distrito de Residencia:** Lima - Chorrillos
 
-*  **Video de la entrevista:**  [Interview Link]()
+*  **Video de la entrevista:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EWMwueEuZRZBsIfiu89sMvEBg-kYsjl54Acixft5nC3GyQ?e=1ZfLoO)
 
 **Resumen de la entrevista:**
 
