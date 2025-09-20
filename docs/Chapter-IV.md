@@ -43,39 +43,39 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 **Header Section**: Encabezado de la landing page.
 
-![header-section-wireframe-desktop](/img/Chapter IV/header-section-wireframe.png)
+![header-section-wireframe-desktop](/img/Chapter%20IV/header-section-wireframe.png)
 
 **Hero Section**: Sección principal de la landing page.
 
-![hero-section-wireframe-desktop](/img/Chapter IV/hero-section-wireframe.png)
+![hero-section-wireframe-desktop](/img/Chapter%20IV/hero-section-wireframe.png)
 
 **About the product Section** : Sección donde se presentará información del producto.
 
-![about-product-section-wireframe-desktop](/img/Chapter IV/about-the-product-section-wireframe.png)
+![about-product-section-wireframe-desktop](/img/Chapter%20IV/about-the-product-section-wireframe.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
-![functionality-section-wireframe-desktop](/img/Chapter IV/functionality-section-wireframe.png)
+![functionality-section-wireframe-desktop](/img/Chapter%20IV/functionality-section-wireframe.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar EventGO.
 
-![benefits-section-wireframe-desktop](/img/Chapter IV/benefits-section-wireframe.png)
+![benefits-section-wireframe-desktop](/img/Chapter%20IV/benefits-section-wireframe.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
 
-![plans-section-wireframe-desktop](/img/Chapter IV/plans-section-wireframe.png)
+![plans-section-wireframe-desktop](/img/Chapter%20IV/plans-section-wireframe.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron EventGO.
 
-![about-us-section-wireframe-desktop](/img/Chapter IV/about-us-section-wireframe.png)
+![about-us-section-wireframe-desktop](/img/Chapter%20IV/about-us-section-wireframe.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
-![about-team-section-wireframe-desktop](/img/Chapter IV/about-the-team-section-wireframe.png)
+![about-team-section-wireframe-desktop](/img/Chapter%20IV/about-the-team-section-wireframe.png)
 
 **Footer Section** : Pie de página de la landing page
 
-![footer-section-wireframe-desktop](/img/Chapter IV/footer-section-wireframe.png)
+![footer-section-wireframe-desktop](/img/Chapter%20IV/footer-section-wireframe.png)
 
 <br>
 
@@ -83,39 +83,39 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 **Header Section**: Encabezado de la landing page.
 
-![header-section-wireframe-desktop](/img/Chapter IV/header-section-mobile-wireframe.png)
+![header-section-wireframe-desktop](/img/Chapter%20IV/header-section-mobile-wireframe.png)
 
 **Hero Section**: Sección principal de la landing page.
 
-![hero-section-wireframe-desktop](/img/Chapter IV/hero-section-mobile-wireframe.png)
+![hero-section-wireframe-desktop](/img/Chapter%20IV/hero-section-mobile-wireframe.png)
 
 **About the product Section**: Sección donde se presentará información del producto.
 
-![about-product-section-wireframe-desktop](/img/Chapter IV/about-the-product-section-mobile-wireframe.png)
+![about-product-section-wireframe-desktop](/img/Chapter%20IV/about-the-product-section-mobile-wireframe.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
-![functionality-section-wireframe-desktop](/img/Chapter IV/functionality-section-mobile-wireframe.png)
+![functionality-section-wireframe-desktop](/img/Chapter%20IV/functionality-section-mobile-wireframe.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar EventGO.
 
-![benefits-section-wireframe-desktop](/img/Chapter IV/benefits-section-mobile-wireframe.png)
+![benefits-section-wireframe-desktop](/img/Chapter%20IV/benefits-section-mobile-wireframe.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
 
-![plans-section-wireframe-desktop](/img/Chapter IV/plans-section-mobile-wireframe.png)
+![plans-section-wireframe-desktop](/img/Chapter%20IV/plans-section-mobile-wireframe.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron EventGO.
 
-![about-us-section-wireframe-desktop](/img/Chapter IV/about-us-section-mobile-wireframe.png)
+![about-us-section-wireframe-desktop](/img/Chapter%20IV/about-us-section-mobile-wireframe.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
-![about-team-section-wireframe-desktop](/img/Chapter IV/about-the-team-section-mobile-wireframe.png)
+![about-team-section-wireframe-desktop](/img/Chapter%20IV/about-the-team-section-mobile-wireframe.png)
 
 **Footer Section**: Pie de página de la landing page
 
-![footer-section-wireframe-desktop](/img/Chapter IV/footer-section-mobile-wireframe.png)
+![footer-section-wireframe-desktop](/img/Chapter%20IV/footer-section-mobile-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -125,39 +125,39 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 **Header Section**: Encabezado de la landing page. Donde irán los botones para dirigirse directamente a alguna de las secciones de la landing page
 
-![header-section-mockup](/img/Chapter IV/header-section-mockup-desktop.png)
+![header-section-mockup](/img/Chapter%20IV/header-section-mockup-desktop.png)
 
 **Hero Section**: Sección principal de la landing page. Dirigido para nuestros dos segmentos objetivos con una imagen referencial.
 
-![hero-section-mockup](/img/Chapter IV/hero-section-mockup-desktop.png)
+![hero-section-mockup](/img/Chapter%20IV/hero-section-mockup-desktop.png)
 
 **About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 
-![about-product-section-mockup](/img/Chapter IV/about-product-section-mockup-desktop.png)
+![about-product-section-mockup](/img/Chapter%20IV/about-product-section-mockup-desktop.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
-![functionalities-section-mockup](/img/Chapter IV/functionality-section-mockup-desktop.png)
+![functionalities-section-mockup](/img/Chapter%20IV/functionality-section-mockup-desktop.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar EventGO. 
 
-![benefits-section-mockup](/img/Chapter IV/benefits-section-mockup-desktop.png)
+![benefits-section-mockup](/img/Chapter%20IV/benefits-section-mockup-desktop.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
 
-![plans-section-mockup](/img/Chapter IV/plans-section-mockup-desktop.png)
+![plans-section-mockup](/img/Chapter%20IV/plans-section-mockup-desktop.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron EventGO.
 
-![about-us-section-mockup](/img/Chapter IV/about-us-section-mockup-desktop.png)
+![about-us-section-mockup](/img/Chapter%20IV/about-us-section-mockup-desktop.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
-![about-team-section-mockup](/img/Chapter IV/about-team-section-mockup-desktop.png)
+![about-team-section-mockup](/img/Chapter%20IV/about-team-section-mockup-desktop.png)
 
 **Footer Section**: Pie de página de la landing page
 
-![footer-section-mockup](/img/Chapter IV/footer-section-mockup-desktop.png)
+![footer-section-mockup](/img/Chapter%20IV/footer-section-mockup-desktop.png)
 
 
 <br>
@@ -166,39 +166,39 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 **Header Section**: Encabezado de la landing page. Donde irán los botones para dirigirse directamente a alguna de las secciones de la landing page
 
-![header-section-mockup-mobile](/img/Chapter IV/header-section-mockup-mobile.png)
+![header-section-mockup-mobile](/img/Chapter%20IV/header-section-mockup-mobile.png)
 
 **Hero Section**: Sección principal de la landing page. Dirigido para nuestros dos segmentos objetivos con una imagen referencial.
 
-![hero-section-mockup-mobile](/img/Chapter IV/hero-section-mockup-mobile.png)
+![hero-section-mockup-mobile](/img/Chapter%20IV/hero-section-mockup-mobile.png)
 
 **About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 
-![about-product-section-mockup-mobile](/img/Chapter IV/about-the-product-section-mockup-mobile.png)
+![about-product-section-mockup-mobile](/img/Chapter%20IV/about-the-product-section-mockup-mobile.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
-![functionalities-section-mockup-mobile](/img/Chapter IV/functionalities-section-mockup-mobile.png)
+![functionalities-section-mockup-mobile](/img/Chapter%20IV/functionalities-section-mockup-mobile.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar EventGO. 
 
-![benefits-section-mockup-mobile](/img/Chapter IV/benefits-section-mockup-mobile.png)
+![benefits-section-mockup-mobile](/img/Chapter%20IV/benefits-section-mockup-mobile.png)
 
 **Plans Section**: Se mostrará información de los planes ofrecidos.
 
-![plans-section-mockup-mobile](/img/Chapter IV/plans-section-mockup-mobile.png)
+![plans-section-mockup-mobile](/img/Chapter%20IV/plans-section-mockup-mobile.png)
 
 **About us Section**: Sección donde se presentan a los integrantes que desarrollaron EventGO.
 
-![about-us-section-mockup-mobile](/img/Chapter IV/about-us-section-mockup-mobile.png)
+![about-us-section-mockup-mobile](/img/Chapter%20IV/about-us-section-mockup-mobile.png)
 
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo. 
 
-![about-team-section-mockup-mobile](/img/Chapter IV/about-the-team-section-mockup-mobile.png)
+![about-team-section-mockup-mobile](/img/Chapter%20IV/about-the-team-section-mockup-mobile.png)
 
 **Footer Section**: Pie de página de la landing page
 
-![footer-section-mockup-mobile](/img/Chapter IV/footer-section-mockup-mobile.png)
+![footer-section-mockup-mobile](/img/Chapter%20IV/footer-section-mockup-mobile.png)
 
 ## _4.4. Web Applications UX/UI Design_ ##
 
