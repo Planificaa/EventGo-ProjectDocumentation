@@ -1,7 +1,7 @@
 # Capítulo 4: Product Design #
 
 ## _4.1. Style Guidelines_ ##
-En esta sección, se expone nuestra proposición de diseño para el landing page y la aplicación web. Las directrices de estilo de EventGo establecen las pautas visuales y de comunicación, garantizando una experiencia de usuario coherente, intuitiva y accesible. Su propósito es asegurar la consistencia en todos los puntos de interacción, desde la interfaz hasta las notificaciones y mensajes del sistema.
+En esta sección, se expone nuestra proposición de diseño para el landing page y la aplicación web. Las directrices de estilo de EventGO establecen las pautas visuales y de comunicación, garantizando una experiencia de usuario coherente, intuitiva y accesible. Su propósito es asegurar la consistencia en todos los puntos de interacción, desde la interfaz hasta las notificaciones y mensajes del sistema.
 ### 4.1.1. General Style Guidelines ###
 Esta sección presenta las decisiones visuales y comunicativas que definen la identidad de EvenGo. Se explican aspectos clave como el uso del logo, la tipografía elegida, la paleta de colores, el sistema de espaciado y el tono de comunicación aplicado.
 
@@ -11,7 +11,7 @@ La identidad visual de EvenGo transmite claridad, organización y confianza desd
 
 El color principal del logo es un tono verde claro y vibrante que destaca sobre distintos fondos, y que transmite frescura, dinamismo
 
-![EventGo-logo.png](../img/Chapter%20IV/EventGo-logo.png)
+![EventGO-logo.png](../img/Chapter%20IV/EventGO-logo.png)
 
 **Typography**
 
