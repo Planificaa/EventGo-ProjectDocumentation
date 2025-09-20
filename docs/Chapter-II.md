@@ -45,10 +45,11 @@ El proceso de registro permite registrar nuevos nuevos, actualizar , consultar e
 
 **Report Process**
 
-El proceso de reportes incluye la generación de guías de remisión interna, guías de conservación y cuidados, además de reportes de pérdidas y facturas. Con ello, el usuario obtiene un mejor control y seguimiento de su negocio.
+El proceso de reportes permite generar distintos tipos de reportes para clientes y organizadores: reportes de eventos, cotizaciones, contratos o comunicaciones. Así, los usuarios pueden monitorear su actividad, ver reportes exportados y tomar decisiones basadas en datos.
 
-<img src="../img/Chapter II/ReportProcess.png" alt ="Report_Process"><br/>
-> <p align="center">Proceso de un creación de algún reporte</p>
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/reporting.PNG?raw=true" alt="Report_Process"><br/>
+<p align="center">Proceso de creación de algún reporte</p>
+
 
 **Payment Process**
 
