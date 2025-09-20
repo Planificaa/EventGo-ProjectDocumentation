@@ -257,7 +257,7 @@ Considera que un aspecto que le gustaría automatizar es la organización de con
 
 **Entrevista 6: Sara Goveya**
 
-<img src="" alt="user-interview-screenshot">
+<img src="/img/Chapter%20II/entrevista-organizador-2.png" alt="entrevista-organizador-2.png">
 
 **Datos del entrevistado:**
 * **Nombre:** Sara Goveya
@@ -266,7 +266,7 @@ Considera que un aspecto que le gustaría automatizar es la organización de con
 * **Ocupación:** Organizador de eventos
 * **Distrito de Residencia:** Surco
 
-*  **Video de las entrevistas:**  [Interview Link]()
+*  **Video de las entrevistas:**  [Interview Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EWiPpUghy1hGmYIBeAkwEu0BB8l8BvU_CkIgWofJFuL_UA?e=C4hBAh)
 
 * **Resumen de la entrevista:**
 
