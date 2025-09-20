@@ -57,17 +57,15 @@
 ## _4.6. Domain-Driven Software Architecture_ ##
 
 ### 4.6.1. Design-Level Event Storming ###
+### 4.6.2. Software Architecture Context Diagram ###
 En esta sección se muestra una visión general del sistema en su entorno, identificando los actores externos, sistemas relacionados y las principales interacciones que definen sus límites funcionales.
 
 ![SystemContext.png](../img/Chapter%20IV/SystemContext.png)
 
-### 4.6.2. Software Architecture Context Diagram ###
-
-
-
 ### 4.6.3. Software Architecture Container Diagrams ###
+En esta sección se descompone el sistema en sus contenedores principales, ilustrando las tecnologías utilizadas, las responsabilidades de cada uno y cómo se comunican entre sí.
 
-
+![ContainerView.png](../img/Chapter%20IV/ContainerView.png)
 
 ### 4.6.4. Software Architecture Components Diagrams ###
 
