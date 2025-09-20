@@ -208,7 +208,7 @@ Si bien valoró el hecho de no tener que preocuparse por la logística porque el
 * **Ocupación:** Organizador de eventos
 * **Distrito de Residencia:** La Unión - Piura
 
-*  **Video de las entrevistas:**  [Interview Link]()
+*  **Video de las entrevistas:**  [Interview Link](https://upcedupe-my.sharepoint.com/personal/u201914181_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201914181%5Fupc%5Fedu%5Fpe%2FDocuments%2FAplicaciones%20Web%20%2D%20AngelDevs%2FNeedfinding%20%2D%20Interviews%2FPersonal%20Interviews%2FEntrevista%20Organizador%20de%20eventos%20%2D%20July%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E85fcff8b%2D0158%2D4b5f%2D859b%2D344acddfd339)
 
 **Resumen de la entrevista:**
 
