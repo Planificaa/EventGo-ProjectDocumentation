@@ -112,18 +112,18 @@ A continuación, se mostrará un resumen de cada entrevista realizada a los segm
 
 **Segmento objetivo 1: Anfitriones de Evento**
 
-**Entrevista 1: Piero**
+**Entrevista 1: Piero de la Cruz**
 
-<img src="" alt="user-interview-screenshot">
+![entrevista-anfitrion-1.png](../img/Chapter%20II/entrevista-anfitrion-2.png)
 
 **Datos del entrevistado**
-* **Nombre:** Piero
+* **Nombre:** Piero de la Cruz
 * **Edad:** 23 años 
 * **Estado civil:** Soltero
 * **Ocupación:** Comerciante
 * **Distrito de Residencia:** Chorrillos
 
-*  **Video de la entrevista:**  [Interview Link]()
+*  **Video de la entrevista:**  [Interview Link](https://drive.google.com/file/d/1UX3TeQM3_AFybCAVXILC432Io926AFGH/view)
 
 **Resumen de la entrevista:**
 
@@ -143,7 +143,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 **Entrevista 2: Cenith Luque García**
 
-<img src="/img/Chapter%20II/entrevista-anfitrion-1.png" alt="entrevista-anfitrion-1">
+![entrevista-anfitrion-2.png](../img/Chapter%20II/entrevista-anfitrion-1.png)
 
 **Datos del entrevistado**
 * **Nombre:** Cenith Luque García
@@ -170,7 +170,7 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 **Entrevista 3: Diego Vilca**
 
-<img src="" alt="user-interview-screenshot">
+![entrevista-anfitrion-3.png](../img/Chapter%20II/entrevista-anfitrion-3.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Diego Vilca
@@ -228,7 +228,7 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 5: Yadhir**
 
-<img src="" alt="user-interview-screenshot">
+![entrevista-organizador-2.png](../img/Chapter%20II/entrevista-organizador-2.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Yadhir
@@ -257,7 +257,7 @@ Considera que un aspecto que le gustaría automatizar es la organización de con
 
 **Entrevista 6: Sara Goveya**
 
-<img src="/img/Chapter%20II/entrevista-organizador-2.png" alt="entrevista-organizador-2.png">
+![entrevista-organizador-3.png](../img/Chapter%20II/entrevista-organizador-3.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Sara Goveya
