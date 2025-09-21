@@ -55,8 +55,29 @@
 
 
 ## _4.6. Domain-Driven Software Architecture_ ##
+Se trata de una metodología que estructura el software a partir de los dominios de negocio, lo que facilita la comprensión y el manejo de la complejidad del sistema. A continuación, se presentan los diagramas que ilustran la arquitectura del software. En **EventGo** expone el proceso seguido por el equipo para refinar y mejorar el modelado general del dominio del problema.
 
+![WineInvetoryDomain-Driven](../img/Chapter%20IV/step-1.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-2.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-3.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-4.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-5.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-6.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-7.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-8.png)
+
+![WineInvetory Domain-Driven](../img/Chapter%20IV/step-9.png)
 ### 4.6.1. Design-Level Event Storming ###
+
+El objetivo es alcanzar un mayor nivel de detalle en la comprensión del sistema, a través de una sesión estructurada y concentrada en identificar los elementos clave.
+
 ### 4.6.2. Software Architecture Context Diagram ###
 En esta sección se muestra una visión general del sistema en su entorno, identificando los actores externos, sistemas relacionados y las principales interacciones que definen sus límites funcionales.
 
