@@ -40,6 +40,57 @@ En cuanto a la verificación del software:
 
 ### 5.1.2. Source Code Management ###
 
+La administración del código fuente constituye un elemento esencial en el desarrollo colaborativo de software, dado que facilita un control eficaz sobre las modificaciones ejecutadas en el proyecto durante su ciclo de vida completo. En esta sección, se expone el sistema de control de versiones establecido en el proyecto EventGo, empleando GitHub como plataforma central. Asimismo, se especifican las convenciones de trabajo adoptadas por el equipo, tales como el modelo GitFlow, el versionado semántico (Semantic Versioning) y las convenciones de commit mediante Conventional Commits. Dichos lineamientos garantizan un desarrollo estructurado y una integración continua eficiente entre los integrantes del equipo.
+
+**URL de los Repositorios:**
+- Organización: [https://github.com/Planificaa](https://github.com/Planificaa)
+- Reporte: [https://github.com/Planificaa/EventGo-ProjectDocumentation](https://github.com/Planificaa/EventGo-ProjectDocumentation)
+- Landing Page: [https://github.com/Planificaa/EventGo-Landing-Pague](https://github.com/Planificaa/EventGo-Landing-Pague)
+
+**Estructura de Ramas:**
+Para preservar un flujo organizado en el desarrollo y optimizar la colaboración, se ha establecido el modelo GitFlow, generando las siguientes ramas:
+- Master Branch: Rama principal (main) que contiene las versiones estables del proyecto. El resto de ramas se derivan de esta.
+- Develop: Rama secundaria donde se consolidan todas las funcionalidades nuevas previo a su fusión con la rama main.
+- Feature Branches: Para esta primera entrega son ramas dedicadas a cada capítulo del informe, permitiendo que cada integrante trabaje de forma independiente sin comprometer el desarrollo principal.
+- Release Branch: Rama generada cuando el equipo determina que la rama develop está preparada para convertirse en una nueva versión estable.
+- Cover: Rama destinada a los componentes de la portada del informe.
+- Student-outcome: Rama dedicada a los resultados de cada uno de los integrantes en relación con el proyecto.
+- Bibliography: Rama cuya funcionalidad es desarrollar la bibliografía del informe del proyecto.
+- Annexes: Rama destinada a enumerar los anexos de cada entrega del informe.
+
+**Convenciones de commits:**
+Para la redacción de commits en el proyecto EventGo, se sigue la convención 'Conventional Commits', la cual cuenta con un formato estándar para facilitar la lectura y comprensión del historial de cambios dentro del proyecto.
+
+```
+    <type>[optional scope]: <description>
+    
+    [optional body]
+    
+    [optional footer(s)]
+```
+- Type:
+    - feat: Añadir una nueva característica.
+    - fix: Correción de errores.
+    - docs: Modificaciones en la documentación.
+    - style: Cambios que no afectan la lógica del código.
+    - refactor: Modificaciones que no añaden características y/o errores.
+    - test: Adición/Modificación de pruebas.
+
+
+- Scope: Brinda información extra acerca del área del codigo afectado.
+```
+   feat(auth): add register functionality.
+```
+**Ejemplos básicos de commits:**
+```
+   feat(login): add organizer authentication module.
+```
+```
+   fix(payment): resolve payment security issue.
+```
+```
+   docs(README): update index instructions.
+```
 
 ### 5.1.3. Source Code Style Guide & Conventions ###
 
