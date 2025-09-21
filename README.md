@@ -70,9 +70,9 @@
 | 1.0     | 20-09-2025 | Deybbi Crisanto  | Se añadio la sección de Information Architecture para el capítulo 4.                          |
 | 1.0     | 20-09-2025 | Fernando Paucar | Se añadio la sección de Landing Page Wireframe y Mockup en el capítulo 4.                     |
 | 1.0     | 20-09-2025 | Bryan Hermoza | Se añadio la sección de Web Applications Wireframes en el capítulo 4.                         |
-| 1.0     | 20-09-2025 | Bryan Hermoza  | Se añadio la sección de Wireflow Diagrams en el capítulo 4.                                   |
-| 1.0     | 20-09-2025 | Bryan Hermoza  | Se añadio la sección de Web Applications Mockups en el capítulo 4.                            |
-| 1.0     | 20-09-2025 | Bryan Hermoza  | Se añadio la sección de Userflow Diagrams en el capítulo 4.                                   |
+| 1.0     | 20-09-2025 | Fernando Paucar  | Se añadio la sección de Wireflow Diagrams en el capítulo 4.                                   |
+| 1.0     | 20-09-2025 | Fernando Paucar  | Se añadio la sección de Web Applications Mockups en el capítulo 4.                            |
+| 1.0     | 20-09-2025 | Fernando Paucar  | Se añadio la sección de Userflow Diagrams en el capítulo 4.                                   |
 | 1.0     | 20-09-2025 | Didier Meza     | Se añadio la sección de Web Applications Prototyping para el capítulo 4.                      |
 | 1.0     | 20-09-2025 | Deybbi Crisanto   | Se añadio la sección de Domain-Driven Software Architecture en el capítulo 4.                 |
 | 1.0     | 20-09-2025 | Deybbi Crisanto  | Se añadio la sección de Class Diagram en el capítulo 4.                                       |
