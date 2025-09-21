@@ -70,6 +70,16 @@ Las *user stories* se centran en las funcionalidades orientadas al usuario final
 
 ## _3.3. Impact Mapping_ ##
 
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
+
+***Segmento: Anfitriones***
+
+![Impact-map-anfitrion.png](../img/Chapter%20III/Impact-map-anfitrion.png)
+
+***Segmento: Organizador***
+
+![Impact-map-organizador.png](../img/Chapter%20III/Impact-map-organizador.png)
+
 ## _3.4. Product Backlog_ ##
 En este apartado del informe se asigna un peso a cada historia de usuario considerando tres factores principales: **complejidad, riesgo y esfuerzo**.  
 Este método permite determinar la relevancia y prioridad adecuada de cada funcionalidad dentro del backlog del producto.  
