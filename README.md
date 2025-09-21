@@ -35,6 +35,16 @@
     <td>u202313453</td>
   </tr>
   <tr>
+
+    <td>July Zelmira Paico Calderon</td>
+    <td>u20211d760</td>
+  </tr>
+  <tr>
+    <td>Deybbi Anderson Crisanto Calle</td>
+    <td>u202120569</td>
+  </tr>
+<tr>
+
     <td>Jesús Fernando Paucar Zenteno</td>
     <td>u202316687</td>
   </tr>
