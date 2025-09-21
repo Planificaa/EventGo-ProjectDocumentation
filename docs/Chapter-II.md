@@ -228,7 +228,7 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 5: Yadhir**
 
-![entrevista-organizador-2.png](../img/Chapter%20II/entrevista-organizador-2.png)
+![entrevista-organizador-2.png](../img/Chapter%20II/entrevista-organizador-3.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Yadhir
@@ -257,7 +257,7 @@ Considera que un aspecto que le gustaría automatizar es la organización de con
 
 **Entrevista 6: Sara Goveya**
 
-![entrevista-organizador-3.png](../img/Chapter%20II/entrevista-organizador-3.png)
+![entrevista-organizador-3.png](../img/Chapter%20II/entrevista-organizador-2.png)
 
 **Datos del entrevistado:**
 * **Nombre:** Sara Goveya
