@@ -226,18 +226,18 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 </br>
 
-**Entrevista 5: Yadhir**
+**Entrevista 5: Yadhir Churampi**
 
 ![entrevista-organizador-2.png](../img/Chapter%20II/entrevista-organizador-3.png)
 
 **Datos del entrevistado:**
-* **Nombre:** Yadhir
+* **Nombre:** Yadhir Churampi
 * **Edad:** 22 años
 * **Estado civil:** Soltero
 * **Ocupación:** Organizador de eventos
 * **Distrito de Residencia:** Villa el Salvador
 
-*  **Video de las entrevistas:**  [Interview Link]()
+*  **Video de las entrevistas:**  [Interview Link](https://drive.google.com/file/d/1pPbuAy5j-DhDbdqdb3ZEJgNZb6zouVx_/view?usp=sharing)
 
 * **Resumen de la entrevista:**
 
