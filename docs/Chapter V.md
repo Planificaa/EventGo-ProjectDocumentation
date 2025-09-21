@@ -219,11 +219,49 @@ export default {
 - En JavaScript dentro de Vue, implementaremos comillas simples('') para las cadenas.
 
 **Límite de Longitud de Línea:**
-- No debe exceder las 80 columnas por línea. Si ese fuera el caso, deberemos de dividir la linea del código para una mejor claridad y limpieza.
+- No debe exceder las 80 columnas por línea. Si ese fuera el caso, deberemos de dividir la línea del código para una mejor claridad y limpieza.
 
 
 ### 5.1.4. Software Deployment Configuration ###
 
+En esta sección se especifica la configuración necesaria para el despliegue de la solución EventGo, incluyendo los pasos clave para lograr la publicación satisfactoria de la **landing page** utilizando GitHub Pages para visualizar cada commit de la **landing page**.
+
+A continuación, se describen los pasos para realizar el despliegue de la **landing page** del proyecto **EventGo**:
+
+##### 1. Actualización de ramas
+
+Asegúrese de que todas las ramas del repositorio estén actualizadas. Posteriormente, ingrese a GitHub y diríjase al repositorio del proyecto **EventGo**.
+
+![repositorio-del-proyecto](../img/Chapter%20V/repo.png)
+
+##### 2. Acceso a las configuraciones
+
+Una vez dentro del repositorio, haga clic en la pestaña **Settings** en la parte superior del repositorio.
+
+![settings.png](../img/Chapter%20V/settings.png)
+
+##### 3. Selección de GitHub Pages
+
+Dentro de la sección **Settings**, en el menú lateral, busque la opción denominada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+
+![pages.png](../img/Chapter%20V/pages.png)
+
+##### 4. Configuración de la rama principal
+
+En la opción **Pages**, seleccione la rama principal (generalmente denominada **main** o **master**). Posteriormente, haga clic en el botón **Save** para iniciar el proceso de deploy de la página.
+
+<br>
+
+##### 5. Confirmación del deploy
+
+Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **landing page** del proyecto.
+
+<br>
+
+##### 6. Acceso a la página
+
+Finalmente, podrá acceder a la **landing page** desde el enlace que se generó al finalizar el deploy. Aquí está un ejemplo de enlace:  
+`https://`
 
 
 ## _5.2. Landing Page, Services & Applications Implementation_ ##
