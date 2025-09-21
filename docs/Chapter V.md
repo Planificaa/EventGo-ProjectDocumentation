@@ -30,7 +30,7 @@ En el Sprint 1, se enfocó el trabajo en diseñar y desarrollar la Landing Page 
 |             Sprint #             |                                                                                                                                                                                                                                                                                                                                                                                                                                                          Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |:--------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|               Date               |                                                                                                                                                                                                                                                                                                                                                                                                                                                          07/09/25                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|               Date               |                                                                                                                                                                                                                                                                                                                                                                                                                                                          12/08/25                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |               Time               |                                                                                                                                                                                                                                                                                                                                                                                                                                                        20:30 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |             Location             |                                                                                                                                                                                                                                                                                                                                                                                                                                               Reunión virtual - Zoom/Discord                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |           Prepared By            |                                                                                                                                                                                                                                                                                                                                                                                                                                                      Deybbi Crisanto                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -116,22 +116,27 @@ Despues de finalizar el sprint 1, hemos logrado implementar todas las funcionali
 
 ![footer-v1.png](../img/Chapter%20V/footer-v1.png)
 
-#### 5.2.1.6. Software Deployment Evidence for Sprint Review ####
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review. ####
 
-En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "EventiGo". A continuación, se detalla la evidencia del despliegue de la Landing Page:
-
-<table> 
-  <tr>
-    <td> <strong>End Point </strong></td>
-    <td align="center"> <strong>Funciones</strong> </td>
-  </tr>
-
-  <tr>
-    <td> https://planificaa.github.io/EventGo-Landing-Pague </td>
-    <td> Desplegar Landing Page de EventiGo</td>
-  </tr>
-</table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review ####
 
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web.
+
+**Link de la landing page desplegada:** https://planificaa.github.io/EventGo-Landing-Pague
+
+![evidence-github-actions-deploy-landing.png](../img/Chapter%20V/evidence-github-actions-deploy-landing.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint ####
+
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo AngelDevs.
+
+![commits-landing.png](../img/Chapter%20V/commits-landing.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![contributors-landing.png](../img/Chapter%20V/contributors-landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio de la Landing Page.
+
+![network-part1-landing.png](../img/Chapter%20V/network-part1-landing.png)
+![network-part2-landing.png](../img/Chapter%20V/network-part2-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
