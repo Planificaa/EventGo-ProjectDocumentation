@@ -123,85 +123,85 @@ Segmento Organizadores de Eventos
 
 Vista de inicio de sesión
 
-![login-screen 2.png](../img/Chapter%20IV/login-screen%202.png)
+![login-screen 2.jpg](../img/Chapter%20IV/login-screen%202.jpg)
 
 Vista para el registro de organizador
 
-![register-organizer 1.png](../img/Chapter%20IV/register-organizer%201.png)
+![register-organizer 1.jpg](../img/Chapter%20IV/register-organizer%201.jpg)
 
 Vista para la recuperación de contraseña
 
-![forgot-password 1.png](../img/Chapter%20IV/forgot-password%201.png)
+![forgot-password 1.jpg](../img/Chapter%20IV/forgot-password%201.jpg)
 
 Vista para la creación de una nueva contraseña
-![reset-password 1.png](../img/Chapter%20IV/reset-password%201.png)
+![reset-password 1.jpg](../img/Chapter%20IV/reset-password%201.jpg)
 
 Vista para ingresar el codigo de verificación
 
-![verification-code 1.png](../img/Chapter%20IV/verification-code%201.png)
+![verification-code 1.jpg](../img/Chapter%20IV/verification-code%201.jpg)
 
 Vista para restablecer la contraseña
 
-![reset-password 1.png](../img/Chapter%20IV/reset-password%201.png)
+![reset-password 1.jpg](../img/Chapter%20IV/reset-password%201.jpg)
 
 Vista de perfil de organizador
 
-![organizer-profile 1.png](../img/Chapter%20IV/organizer-profile%201.png)
+![organizer-profile 1.jpg](../img/Chapter%20IV/organizer-profile%201.jpg)
 
 Vista de actualización del perfil del organizador
 
-![update-organizer-profile 1.png](../img/Chapter%20IV/update-organizer-profile%201.png)
+![update-organizer-profile 1.jpg](../img/Chapter%20IV/update-organizer-profile%201.jpg)
 
 Vista del álbum en el perfil del organizador
 
-![almuns-profile-organizer.png](../img/Chapter%20IV/almuns-profile-organizer.png)
+![almuns-profile-organizer.jpg](../img/Chapter%20IV/almuns-profile-organizer.jpg)
 
 Vista para la edición del álbum
 
-![album-detail 1.png](../img/Chapter%20IV/album-detail%201.png)
+![album-detail 1.jpg](../img/Chapter%20IV/album-detail%201.jpg)
 
 Vista para crear álbum
 
-![create-album 1.png](../img/Chapter%20IV/create-album%201.png)
+![create-album 1.jpg](../img/Chapter%20IV/create-album%201.jpg)
 
 Vista para chat con los clientes
 
-![direct-communication-mockup1-Org.png](../img/Chapter%20IV/direct-communication-mockup1-Org.png)
+![direct-communication-mockup1-Org.jpg](../img/Chapter%20IV/direct-communication-mockup1-Org.jpg)
 
 
 Segmento Organizadores Anfitriones 
 
 Vista para el centro de planificaciones de eventos
 
-![event-planning-hub 1.png](../img/Chapter%20IV/event-planning-hub%201.png)
+![event-planning-hub 1.jpg](../img/Chapter%20IV/event-planning-hub%201.jpg)
 
 Vista de portafolio con los eventos recientes
 
-![service-portfolio 1.png](../img/Chapter%20IV/service-portfolio%201.png) 
+![service-portfolio 1.jpg](../img/Chapter%20IV/service-portfolio%201.jpg) 
 
 Vista de las reseñas hacia los organizadores
 
-![organizer-Historial-reseña-anfitrion2.png](../img/Chapter%20IV/organizer-Historial-rese%C3%B1a-anfitrion2.png) 
+![organizer-Historial-reseña-anfitrion2.jpg](../img/Chapter%20IV/organizer-Historial-rese%C3%B1a-anfitrion2.jpg) 
 
 Vista del perfil de los anfitriones 
 
-![organizer-profile-public 1.png](../img/Chapter%20IV/organizer-profile-public%201.png)
+![organizer-profile-public 1.jpg](../img/Chapter%20IV/organizer-profile-public%201.jpg)
 
 Vista de los detalles de las reseñas
 
-![review-detail-mockup-continuation 1.png](../img/Chapter%20IV/review-detail-mockup-continuation%201.png)
+![review-detail-mockup-continuation 1.jpg](../img/Chapter%20IV/review-detail-mockup-continuation%201.jpg)
 
 Vista de historial de reseñas
 
-![review-rating-mockup 1.png](../img/Chapter%20IV/review-rating-mockup%201.png)
+![review-rating-mockup 1.jpg](../img/Chapter%20IV/review-rating-mockup%201.jpg)
 
 Vista para contactar con el organizador
 
-![Contact-to-organizator-from-host.png](../img/Chapter%20IV/Contact-to-organizator-from-host.png)
+![Contact-to-organizator-from-host.jpg](../img/Chapter%20IV/Contact-to-organizator-from-host.jpg)
 
 Vista para escribir una reseña
 
-![write-review 1.png](../img/Chapter%20IV/write-review%201.png)
+![write-review 1.jpg](../img/Chapter%20IV/write-review%201.jpg)
 
 ## _4.5. Web Applications Prototyping_ ##
 
