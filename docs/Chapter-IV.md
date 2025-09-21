@@ -68,8 +68,37 @@ En esta sección se descompone el sistema en sus contenedores principales, ilust
 ![ContainerView.png](../img/Chapter%20IV/ContainerView.png)
 
 ### 4.6.4. Software Architecture Components Diagrams ###
+En esta sección se detallan los componentes internos de la Single Page Application (SPA), asi como del API Application, los cuales estan divididos en diferentes bounded contexts que encapsulan funcionalidades específicas del dominio. Cada bounded context agrupa componentes que colaboran entre sí para cumplir con responsabilidades concretas, lo que facilita la escalabilidad, el mantenimiento y la alineación con los procesos del negocio.
 
+**Single Page Application (SPA)**
 
+**Event Design and Planning Bounded Context**
+
+![SPA-Event-Design-and-Planning-Bounded-Context-ComponentView.png](../img/Chapter%20IV/SPA-Event-Design-and-Planning-Bounded-Context-ComponentView.png)
+
+**Event Operations and Monitoring Bounded Context**
+
+![EventOperationsMonitoringComponentView.png](../img/Chapter%20IV/EventOperationsMonitoringComponentView.png)
+
+**Profiles and Preferences Bounded Context**
+
+![ProfilesPreferencesComponentView.png](../img/Chapter%20IV/ProfilesPreferencesComponentView.png)
+
+**Payments and Subscriptions Bounded Context**
+
+![PaymentsSubscriptionsComponentView.png](../img/Chapter%20IV/PaymentsSubscriptionsComponentView.png)
+
+**Direct Communication Bounded Context**
+
+![DirectCommunicationComponentView.png](../img/Chapter%20IV/DirectCommunicationComponentView.png)
+
+**Identity and Access Management Bounded Context (IAM)**
+
+![IAMComponentView.png](../img/Chapter%20IV/IAMComponentView.png)
+
+**API Application - EventGO Platform**
+
+![EventGOPlatformAPIComponentView.png](../img/Chapter%20IV/EventGOPlatformAPIComponentView.png)
 
 ## _4.7. Software Object-Oriented Design_ ##
 
