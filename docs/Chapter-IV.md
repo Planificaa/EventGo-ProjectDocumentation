@@ -41,7 +41,7 @@
 
 ## 4.4. Web Applications UX/UI Design
 
-Esta sección contiene apartados específicos donde se expone y explica la propuesta visual y de interacción de las aplicaciones, que conforman la experiencia del usuario al interactuar con los productos digitales.
+Esta sección contiene secciones específicos donde se expone y explica la propuesta visual y de interacción de las aplicaciones, que conforman la experiencia del usuario al interactuar con los productos digitales.
 
 ### 4.4.1. Web Applications Wireframes
 
