@@ -496,5 +496,53 @@ El Empathy Mapping es una herramienta que ayuda a comprender a fondo a los usuar
 
 ## _2.4. Big Picture Event Storming_ ##
 
+El Big Picture Event Storming nos permite tener una visión clara y completa de cómo funcionan los procesos dentro de nuestra aplicación. A través de esta técnica visual identificamos los eventos más importantes, los posibles problemas y también las oportunidades de mejora. De esta manera, podemos centrarnos en procesos clave para analizarlos de forma más detallada. Algunos de estos procesos claves son los siguientes:
+
+**Authentication Process**
+
+El proceso de autenticación incluye el registro y el inicio de sesión. Para mayor seguridad, se utilizan tokens y la verificación de cuenta a través de Gmail, asegurando que solo usuarios válidos accedan a la aplicación.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/autentication.jpg?raw=true" alt="Authentication_Process"><br/>
+<p align="center">Proceso de autenticación</p>
+
+**Register Process**
+
+El proceso de registro permite registrar nuevos nuevos, actualizar , consultar el eveneto , entre otras funciones que facilitan el control de los eventos.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/register.jpg?raw=true" alt="Inventory_Process"><br/>
+<p align="center">Proceso de la gestión del registro</p>
+
+
+**Report Process**
+
+El proceso de reportes permite generar distintos tipos de reportes para clientes y organizadores: reportes de eventos, cotizaciones, contratos o comunicaciones. Así, los usuarios pueden monitorear su actividad, ver reportes exportados y tomar decisiones basadas en datos.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/reporting.PNG?raw=true" alt="Report_Process"><br/>
+<p align="center">Proceso de creación de algún reporte</p>
+
+
+**Payment Process**
+
+El proceso de pago inicia con la selección de un plan y continúa con la pasarela de pago, donde se verifica la disponibilidad de sus fondos. Una vez realizado el cobro, el plan se activa o se renueva automáticamente. Por último, el usuario recibe un correo de verificación del pago realizado.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/payment.jpg?raw=true" alt="Payment_Process"><br/>
+<p align="center">Proceso de pago</p>
+
+
+**Contract Process**
+
+El proceso de contrato en EventGo formaliza el acuerdo entre el cliente y el organizador tras la aceptación de una cotización. Incluye la generación, revisión y firma del contrato, asegurando compromiso y transparencia. Una vez firmado, el contrato no admite modificaciones y queda registrado en la plataforma.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/contract.jpg?raw=true" alt="Order_Process"><br/>
+<p align="center">Proceso de realizar algun contrato</p>
+
+
+**Notification Process**
+
+El proceso de notificaciones informa al cliente  sobre el estado de sus eventos, alerta cuando el evento se cancela, se reprograma y se finaliza, manteniendo actualizado al cliente en todo momento.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap2-big-picture-eventstorming/img/Chapter%20II/notification.jpg?raw=true" alt="Notification Process"><br/>
+<p align="center">Proceso de una notificación</p>
+  
 ## _2.5. Ubiquitous Language_ ##
 
