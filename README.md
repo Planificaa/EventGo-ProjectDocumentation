@@ -44,6 +44,10 @@
 
 # Registro de Versiones del Informe
 
+
+
+# Project Report Collaboration Insights
+
 Repositorio del **Project Report**: https://github.com/Planificaa/EventGo-ProjectDocumentation.git
 
 Link de la organización **EventGo**: https://github.com/Planificaa
@@ -68,10 +72,6 @@ Finalmente, este gráfico representa la cantidad de commits realizados por cada 
 Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
 
 <img src="/img/README/branches.PNG" alt="Commits" width="400" height="300">
-
-# Project Report Collaboration Insights
-
-
 
 # Student OutCome
 
