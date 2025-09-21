@@ -61,13 +61,13 @@ Respecto del primer avance del proyecto, cada miembro del equipo realizó un apo
 
 Finalmente, este gráfico representa la cantidad de commits realizados por cada miembro del equipo en el repositorio del proyecto. Cada barra representa a un miembro del equipo y la altura de la barra indica el número total de commits realizados por esa persona.
 
-<img src="/img/README/top-commiters.png" alt="Commits" width="400" height="300">
+<img src="/img/README/top-commiters.PNG" alt="Commits" width="400" height="300">
 
 ### Ramificación del proyecto usando GitFlow:
 
 Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
 
-<img src="/img/README/branches.png" alt="Commits" width="400" height="300">
+<img src="/img/README/branches.PNG" alt="Commits" width="400" height="300">
 
 # Project Report Collaboration Insights
 
