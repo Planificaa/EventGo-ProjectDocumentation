@@ -22,6 +22,11 @@
 
 
 ### 1.2.2.4. Lean UX Canvas ###
+<p align="center">
+  <img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap1/lean-ux-canvas/img/Chapter%20I/LeanUXCanvas.jpg?raw=true"/>
+
+  > <p align="center">Lean Ux Canvas</p>
+</p>
 
 
 ## _1.3. Segmentos objetivo_ ##
