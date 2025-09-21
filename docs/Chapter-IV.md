@@ -116,7 +116,7 @@ Se presentaran los wireflows que competen con nuestros user goals
 ![wireflow-8.png](../img/Chapter%20IV/wireflow-8.png)
 
 ### 4.4.3. Web Applications Mock-ups
-En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - EventGo](https://www.figma.com/design/1usb4mpjHIvceZfIweObPL/Eventify-OS?node-id=0-1)
+En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - EventGo](https://www.figma.com/design/3caqjycFbg1HlLcRI9Gpy4/EventGo?node-id=0-1&t=1Okc8pncZiyOBfWk-1)
 <br>
 
 Segmento Organizadores de Eventos
