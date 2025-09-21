@@ -79,11 +79,42 @@ En el tablero se pueden visualizar las user stories que se abarcaron en este spr
 
 #### 5.2.1.4. Development Evidence for Sprint Review ####
 
-
+![commits-landing.png](../img/Chapter%20V/commits-landing.png)
 
 #### 5.2.1.5. Execution Evidence for Sprint Review ####
 
+**Landing Page**
+URL: https://planificaa.github.io/EventGo-Landing-Pague/ 
 
+Despues de finalizar el sprint 1, hemos logrado implementar todas las funcionalidades de nuestra landing page, con excepción de la sección about the product, que todavía no contiene un video que muestre el funcionamiento de nuestra plataforma web, puesto que la plataforma web aún no existe en este sprint. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+***header:*** La barra de navegación que nos ayudará a redirigirnos por las diferentes secciones de la landing page.
+
+![header-v1.png](../img/Chapter%20V/header-v1.png) 
+
+***Hero:*** Banner que contiene un botón que te llevará a registrarte a nuestra apliación web.
+
+![hero-v1.png](../img/Chapter%20V/hero-v1.png) 
+
+***Functionality:*** Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece
+
+![functionalities-v1.png](../img/Chapter%20V/functionalities-v1.png)
+
+***Benefits:*** Sección donde los visitantes de la landing page podrán ver los beneficios principales que les ofrece nuestra aplicación.
+
+![benefits.png](../img/Chapter%20V/benefits.png) 
+
+***Plans:*** Sección donde los visitantes de la landing page podrán ver los diferentes planes de suscripción que ofrecemos.
+
+![plans.png](../img/Chapter%20V/plans.png) 
+
+***About Us:*** Sección donde los visitantes de la landing page podrán ver información sobre nuestro equipo de trabajo.
+
+![about-us-v1.png](../img/Chapter%20V/about-us-v1.png) 
+
+***Footer:*** Pie de página que contiene información de contacto y redes sociales.
+
+![footer-v1.png](../img/Chapter%20V/footer-v1.png)
 
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review ####
 
