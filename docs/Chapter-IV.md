@@ -682,7 +682,11 @@ Vista para escribir una reseña
 
 ## _4.5. Web Applications Prototyping_ ##
 
+El prototipo de EventGo, diseñado en Figma, muestra de manera visual e interactiva cómo sería la experiencia del usuario, considerando tanto a anfitriones como a organizadores de eventos. Cada tipo de usuario cuenta con funciones propias: los anfitriones pueden localizar organizadores, comunicarse mediante mensajes, administrar sus eventos y solicitar cotizaciones; mientras que los organizadores pueden gestionar las solicitudes recibidas, enviar formularios, preparar cotizaciones y hacer seguimiento de los eventos en curso.
 
+![prototype-eventgo](../img/Chapter%20IV/prototype.png)
+
+**link del prototipo:**  [Prototype](https://www.figma.com/design/3caqjycFbg1HlLcRI9Gpy4/EventGo?node-id=296-1170&t=1Okc8pncZiyOBfWk-1)
 
 ## _4.6. Domain-Driven Software Architecture_ ##
 
