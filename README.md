@@ -39,8 +39,12 @@
     <td>u20211d760</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Deybbi Anderson Crisanto Calle</td>
+    <td>u202120569</td>
+  </tr>
+<tr>
+    <td>Jesús Fernando Paucar Zenteno</td>
+    <td>u202316687</td>
   </tr>
 </table>
 
