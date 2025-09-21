@@ -10,19 +10,90 @@
 
 
 
-## _4.2. Information Architecture_ ##
+## 4.2. Information Architecture
+
+#### Sistemas de Etiquetado en EventGO
+
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **EventGO**.  
+El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
+
+
+#### Etiquetas de Encabezados (Headings)
+
+Las etiquetas de encabezado en **EventGO** se utilizan para definir claramente las secciones principales de la página y la aplicación.  
+Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
+
+- **Inicio / Home:**  
+  Este encabezado se utiliza en la página principal para dar la bienvenida a los usuarios y proporcionar una introducción general a la plataforma.  
+  Incluye un banner con la propuesta de valor de EventGO y botones de acceso rápido para registro de organizadores e inscripción de asistentes.
+
+- **Eventos / Events:**  
+  Sección que describe los eventos disponibles, sus categorías (conciertos, conferencias, talleres, ferias, etc.), y permite a los usuarios explorar y registrarse.
+
+- **Planes y Precios / Pricing Plans:**  
+  Encabezado que detalla las opciones de suscripción para organizadores de eventos, incluyendo características y beneficios de cada plan.
+
+- **Contáctanos / Contact Us:**  
+  Proporciona información de contacto, formulario de consulta, y enlaces para asistencia personalizada a organizadores y asistentes.
+
+- **Sobre Nosotros / About Us:**  
+  Ofrece información sobre la misión de EventGO, su visión de conectar experiencias, y el equipo detrás de la plataforma.
+
+
+#### Etiquetas Textuales (Text Labels)
+
+Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma.  
+Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
+
+- **Buscar Eventos / Find Events:**  
+  Utilizada en la barra de búsqueda, permite a los usuarios explorar eventos disponibles según ubicación, fecha o categoría.
+
+- **Registrarse / Register:**  
+  Botón que permite a los usuarios inscribirse como asistentes o creadores de eventos.
+
+- **Mis Eventos / My Events:**  
+  Sección donde los usuarios pueden gestionar los eventos a los que están inscritos o que están organizando.
+
+- **Historial / History:**  
+  Permite a los usuarios revisar los eventos pasados a los que asistieron o que organizaron.
+
+- **Configuraciones / Settings:**  
+  Permite acceder a las preferencias de cuenta, métodos de pago, notificaciones y ajustes generales.
+
+
+#### Etiquetas Icónicas (Iconic Labels)
+
+Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente.  
+Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
+
+- **Icono de Búsqueda (Lupa):**  
+  Representa la función de buscar eventos dentro de la plataforma.
+
+- **Icono de Calendario:**  
+  Utilizado para mostrar fechas relevantes de los eventos y gestionar la programación personal.
+
+- **Icono de Estrella:**  
+  Permite marcar eventos como favoritos para recibir recordatorios o guardarlos para futuras decisiones.
+
+- **Icono de Ticket:**  
+  Representa el acceso a las entradas de los eventos, tanto para la compra como para su visualización.
+
+- **Icono de Notificación:**  
+  Indica actualizaciones importantes, como cambios en la programación, nuevos eventos sugeridos o recordatorios de inscripción.
+
+
 
 ### 4.2.1. Organization Systems
 
-# Arquitectura de la Información de EventGO
+#### Arquitectura de la Información de EventGO
 
 Para estructurar la arquitectura de la información de **EventGO**, se ha adoptado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
 
-## Landing Page
+#### Landing Page
 
 La Landing Page de **EventGO** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
 
-### Barra de Navegación Principal
+#### Barra de Navegación Principal
 
 Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
 
@@ -32,21 +103,21 @@ Situada en la parte superior de la página, proporciona accesos rápidos a las s
 - **Contáctanos (Contact Us):** Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de EventGO.
 - **Nosotros (About Us):** Describe la misión, visión y el equipo detrás de EventGO, generando confianza y transparencia con los usuarios.
 
-### Estructura de Contenido Jerárquica
+#### Estructura de Contenido Jerárquica
 
 - **Encabezados y Subencabezados:** Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
 - **Botones de Llamada a la Acción (CTAs):** Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas como crear un evento, contratar un organizador o contactar al equipo de EventGO.
 
-### Footer
+#### Footer
 
 Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre EventGO.
 
 
-## Aplicación Web
+#### Aplicación Web
 
 La Aplicación Web de **EventGO** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Anfitriones de Eventos** y **Organizadores Profesionales**. La organización del contenido permite que cada tipo de usuario navegue eficientemente por la aplicación.
 
-### Para Anfitriones de Eventos
+#### Para Anfitriones de Eventos
 
 - **Buscar Organizador (Search Organizer):** Permite a los anfitriones buscar organizadores de eventos según diferentes criterios, como tipo de evento, ubicación y presupuesto.
 - **Mis Eventos (My Events):** Muestra una lista de eventos programados por el anfitrión, permitiendo ver detalles, asistentes y organizadores asignados.
@@ -56,7 +127,7 @@ La Aplicación Web de **EventGO** está diseñada para ofrecer una experiencia p
 - **Perfil (Profile):** Permite a los anfitriones gestionar su información personal, preferencias de notificación y configuración de cuenta.
 - **Configuración:** Permite a los anfitriones ajustar sus preferencias de notificación, privacidad y otros aspectos de su cuenta.
 
-### Para Organizadores Profesionales
+#### Para Organizadores Profesionales
 
 - **Mensajes (Messages):** Facilita la comunicación directa entre anfitriones y organizadores, permitiendo el intercambio de información y actualizaciones sobre eventos.
 - **Cotizaciones (Quotes):** Permite a los anfitriones recibir y gestionar cotizaciones de organizadores, facilitando la comparación de precios y servicios ofrecidos.
@@ -68,7 +139,7 @@ La Aplicación Web de **EventGO** está diseñada para ofrecer una experiencia p
 - **Dashboard:** Ofrece un resumen de los eventos activos, tareas pendientes, cotizaciones y mensajes recientes.
 
 
-### Interacción y Flujo de Trabajo
+#### Interacción y Flujo de Trabajo
 
 - Las interfaces están diseñadas para ser intuitivas y fáciles de usar, permitiendo a los usuarios completar tareas rápidamente con un mínimo de pasos.
 - Cada sección dentro de la aplicación está claramente etiquetada y utiliza una combinación de texto, íconos y ayudas visuales para mejorar la usabilidad y la comprensión.
@@ -76,89 +147,89 @@ La Aplicación Web de **EventGO** está diseñada para ofrecer una experiencia p
 
 ### 4.2.2. Labeling Systems
 
-# Sistemas de Etiquetado en EventGO (Web Application Angular)
+#### Sistemas de Etiquetado en EventGO ( Web Application PrimeVue)
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **EventGO**, desarrollada con **Angular**.  
-El etiquetado está diseñado para aprovechar Angular Components y Angular Material, garantizando fluidez y accesibilidad.
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **EventGO**, desarrollada con **PrimeVue**.  
+El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
 
-## Etiquetas de Encabezados (Headings)
 
-Los encabezados principales se estructuran utilizando `mat-card`, `mat-toolbar` y `mat-expansion-panel`:
+#### Etiquetas de Encabezados (Headings)
+
+Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue como `<Card>`, `<Panel>` y `<Toolbar>`, facilitando la organización del contenido:
 
 - **Inicio / Home:**  
-  Página de bienvenida con `mat-toolbar` fija y sección de presentación usando `mat-card` para el contenido principal.
+  Banner de bienvenida utilizando `<Hero>`, botones `<Button>` de acceso rápido para registro e inicio de sesión.
 
 - **Eventos / Events:**  
-  Listado de eventos en un `mat-grid-list` o `mat-list` con información básica y botones de acción.
+  Listado dinámico de eventos mediante `<DataTable>` o `<Listbox>`, mostrando detalles de cada evento.
 
 - **Planes y Precios / Pricing Plans:**  
-  Cards dinámicos (`mat-card`) para presentar las suscripciones disponibles.
+  Sección mostrada en `<Card>` para cada plan disponible, con botones de acción de registro rápido.
 
 - **Contáctanos / Contact Us:**  
-  Formulario de contacto usando `mat-form-field`, `mat-input`, y `mat-button` para el envío.
+  Formulario de contacto con componentes `<InputText>`, `<Textarea>` y `<Button>` de envío.
 
 - **Sobre Nosotros / About Us:**  
-  Información organizacional estructurada en `mat-accordion` para una navegación simplificada.
+  Sección descriptiva presentada con `<Panel>` o `<Accordion>` para expandir información de misión y visión.
 
 
-## Etiquetas Textuales (Text Labels)
+#### Etiquetas Textuales (Text Labels)
 
-Las acciones están representadas principalmente en `mat-button`, `mat-icon-button` y etiquetas de formularios:
+Las etiquetas textuales aparecen como propiedades `label` en botones y campos de entrada:
 
 - **Buscar Eventos / Find Events:**  
-  Barra de búsqueda con `mat-form-field` + `mat-icon` de búsqueda.
+  Barra de búsqueda implementada con `<InputText>` y botón `<Button label="Buscar">`.
 
 - **Registrarse / Register:**  
-  Botón destacado `mat-raised-button color="primary"`.
+  Botón de acción destacado usando `<Button>`.
 
 - **Mis Eventos / My Events:**  
-  Acceso a eventos propios desde `mat-sidenav` o sección principal.
+  Sección de eventos propios utilizando `<TabView>` para organizar eventos activos y pasados.
 
 - **Historial / History:**  
-  Listado de eventos anteriores usando `mat-list` o `mat-table`.
+  Listado de eventos anteriores con `<DataTable>` y opciones de filtrado.
 
 - **Configuraciones / Settings:**  
-  Sección en menú lateral (`mat-sidenav`) para ajustes de cuenta y notificaciones.
+  Acceso mediante `<Menu>` lateral o `<Sidebar>` a las preferencias del usuario.
 
 
-## Etiquetas Icónicas (Iconic Labels)
+#### Etiquetas Icónicas (Iconic Labels)
 
-Angular Material usa íconos de la librería `@angular/material/icon`:
+Se utilizan componentes `<Button>` con íconos embebidos (`icon="pi pi-search"`, `icon="pi pi-calendar"`, etc.):
 
-- **Icono de Búsqueda (search):** `<mat-icon>search</mat-icon>`
-- **Icono de Calendario (event):** `<mat-icon>event</mat-icon>`
-- **Icono de Estrella (star):** `<mat-icon>star</mat-icon>`
-- **Icono de Ticket (confirmation_number):** `<mat-icon>confirmation_number</mat-icon>`
-- **Icono de Notificación (notifications):** `<mat-icon>notifications</mat-icon>`
-
-El enfoque en Angular garantiza una aplicación altamente dinámica y modular, donde cada componente gestiona su propia sección dentro de EventGO.
+- **Icono de Búsqueda (Lupa):** `pi pi-search`
+- **Icono de Calendario:** `pi pi-calendar`
+- **Icono de Estrella:** `pi pi-star`
+- **Icono de Ticket:** `pi pi-ticket`
+- **Icono de Notificación:** `pi pi-bell`
 
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 
 En el desarrollo de EventGO, la optimización para motores de búsqueda (SEO) juega un papel crucial para mejorar la visibilidad de la plataforma en línea. Los SEO tags y meta tags son herramientas esenciales que ayudan a los motores de búsqueda a comprender y clasificar el contenido de las páginas de la plataforma, asegurando que los usuarios encuentren EventGO de manera eficiente. Estos elementos permiten proporcionar información relevante, como el título de la página, la descripción, las palabras clave, y los datos específicos para mejorar la experiencia del usuario y atraer tráfico cualificado.
 
 En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags implementados en EventGO, cómo se utilizan para optimizar la indexación de nuestras páginas y las mejores prácticas que siguen los motores de búsqueda más utilizados.
 
-####  Landing Page (Sitio Web Estático)
+#### Landing Page (Sitio Web Estático)
 
 - **Title Tag: <br>**
-El title tag es uno de los factores más importantes en SEO, ya que determina el título que aparece en los resultados de búsqueda. Por eso decidimos que sea breve, relevante y que contenenga las palabras clave para mejorar una mejor visibilidad.
+  El title tag es uno de los factores más importantes en SEO, ya que determina el título que aparece en los resultados de búsqueda. Por eso decidimos que sea breve, relevante y que contenenga las palabras clave para mejorar una mejor visibilidad.
 ```html
 <title>EventGO - Conecta, organiza y celebra tus eventos</title>
 ```
 - **Meta Description: Tag <br>**
-La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en EventGO.
+  La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en EventGO.
 ```html
 <meta name="description" content="EventGO es la plataforma donde anfitriones encuentran al organizador ideal y organizadores hacen crecer su negocio. Conecta, organiza y celebra con confianza.">
 ```
 - **Meta Keywords Tag: <br>**
-El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
+  El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
 ```html
 <meta name="keywords" content="eventos, organización, anfitriones, organizadores, bodas, celebraciones, gestión de eventos, planificación de eventos">
 ```
 - **Meta Author Tag: <br>**
-El meta author tag se utiliza para especificar el autor del contenido de la página. Aunque no impacta directamente en el SEO, lo consideramos útil para proporcionar transparencia y credibilidad.
+  El meta author tag se utiliza para especificar el autor del contenido de la página. Aunque no impacta directamente en el SEO, lo consideramos útil para proporcionar transparencia y credibilidad.
 ```html
 <meta name="author" content="Equipo EventGO">
 ```
@@ -173,16 +244,16 @@ El meta author tag se utiliza para especificar el autor del contenido de la pág
 <link rel="icon" href="/assets/chapter-IV/EventGO_logo.png" type="image/png">
 ```
 
-### ⚙️ Web Application (Aplicación Web Interactiva)
+### Web Application (Aplicación Web Interactiva)
 - **Title Tag: <br>**
   El title tag define el título que aparecerá en el navegador y en los resultados de búsqueda cuando los usuarios interactúen directamente con la aplicación. Decidimos usar un título dinámico que refleje la acción principal del usuario en la aplicación EventGO.
 ```html
-<title>EventGO - El aplicativo ideal para planificar tu evento</title>
+<title>EventGO - Organiza tu evento</title>
 ```
 - **Meta Description: <br>**
   La meta description proporciona un resumen conciso del contenido de la página. Es importante que sea atractiva y contenga palabras clave relevantes para aumentar la tasa de clicks en EventGO.
 ```html
-<meta name="description" content="Organiza, coordina y conecta en un solo lugar. Con EventGO, gestiona eventos en tiempo real de manera rápida, sencilla y sin complicaciones.">
+<meta name="description" content="Usa EventGO para planificar, coordinar y comunicarte con organizadores o anfitriones en tiempo real. Todo desde una única plataforma eficiente y fácil de usar.">
 ```
 - **Meta Keywords Tag: <br>**
   El meta keywords tag es menos relevante hoy en día, pero aún es útil para proporcionar información adicional sobre el contenido de la página. En este caso, hemos incluido palabras clave relacionadas con la organización de eventos y la conexión entre anfitriones y organizadores.
