@@ -243,7 +243,7 @@ También apoyé en la creación del landing page de EventGo, lo cual complement�
         - [4.8.1. Database Diagram](docs/Chapter-IV.md/#491-database-diagram-)
 
 
-5. [Capítulo V: Product Implementation, Validation & Deployment](docs/Chapter V.md/#capítulo-5-product-implementation-validation--deployment-)
+5. [Capítulo V: Product Implementation, Validation & Deployment](docs/Chapter%20V.md/#capítulo-5-product-implementation-validation--deployment-)
     - [5.1. Software Configuration Management](docs/Chapter-V.md/#_51-software-configuration-management_-)
         - [5.1.1. Software Development Environment Configuration](docs/Chapter-V.md/#511-software-development-environment-configuration-)
         - [5.1.2. Source Code Management](docs/Chapter-V.md/#512-source-code-management-)
