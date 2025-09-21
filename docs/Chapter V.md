@@ -94,6 +94,132 @@ Para la redacción de commits en el proyecto EventGo, se sigue la convención 'C
 
 ### 5.1.3. Source Code Style Guide & Conventions ###
 
+La definición de una guía de estilo y convenciones de codificación constituye un aspecto fundamental para asegurar que el código sea comprensible, sostenible y consistente durante todo el ciclo de vida del proyecto. En esta sección, se exponen las convenciones establecidas por el equipo para la programación en los lenguajes implementados en el proyecto EventGo, que comprenden HTML, CSS, JavaScript y C#.
+
+Dichas convenciones abarcan aspectos como la denominación de variables, funciones, clases y archivos, así como las mejores prácticas para la redacción de código, siguiendo guías de estilo reconocidas y estándares de la industria. Al aplicar estas convenciones, se busca garantizar la calidad del código y optimizar la colaboración entre los integrantes del equipo, evitando inconsistencias y errores frecuentes.
+
+**Nomenclatura General:**
+
+Para asegurar una correcta coherencia en todo el código, se aplicarán las siguientes directrices:
+
+- Los nombres de variables, funciones y métodos deben implementar **camelCase**.
+- Los nombres de clases y componentes seguirán la convención **PascalCase**.
+- Para los archivos y carpetas, se empleará la convención **kebab-case**.
+
+Se optará por utilizar Inglés para todas las denominaciones con el objetivo de garantizar la comprensión entre los integrantes del equipo y facilitar la colaboración internacional.
+
+Ejemplos:
+
+- Variables: ```organizerName```, ```hostName```
+- Clases: ```ListEvents```, ```Organizer```
+- Archivos: ```host-message.service.js```,```organizer.controller.js```
+
+**Espacios y Sangría**
+
+La sangría del código en EventGo seguirá las siguientes directrices para garantizar claridad y orden:
+
+- Se implementarán 2 espacios para la sangría en archivos HTML, CSS y JavaScript.
+- En archivos C#, se aplicarán 4 espacios para la sangría.
+
+Esta directriz permite preservar consistencia en todos los lenguajes empleados para este proyecto, facilitando la colaboración entre todos los integrantes del grupo.
+
+**Ejemplo de HTML con sangría:**
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>EventGo</title>
+  </head>
+  <body>
+    <h1>¡Encuentra a tu organizador de eventos!</h1>
+    <p>No esperes más...</p>
+  </body>
+</html>
+```
+
+**Convenciones por Lenguaje:**
+
+- Framework:
+    - Implementaremos Vue como Framework para el desarrollo del Front-End.
+- Tecnologías:
+    - HTML5, CSS3 para aspectos estáticos y presentación.
+    - JavaScript para incorporar interactividad y lógica.
+- Diseño:
+    - Tanto para el Landing Page como para la aplicación web implementaremos Material Design, con el objetivo de garantizar una correcta, moderna y optimizada experiencia de usuario.
+- Biblioteca de componentes de UI:
+    - Se opta por utilizar PrimeVue como biblioteca principal para componentes de la interfaz de usuario, lo cual facilita la creación de interfaces interactivas y atractivas.
+- Estilo y Estructura:
+    - HTML/CSS: Seguiremos la [Guía de Estilo HTML y CSS](https://google.github.io/styleguide/htmlcssguide.html) proporcionada por Google, con la finalidad de mantener consistencia y legibilidad en los archivos.
+    - JavaScript: Para el código JavaScript, se aplicará la [Guía de Estilo de JavaScript de Airbnb](https://github.com/airbnb/javascript), para asegurar un código limpio, legible y sobre todo bien estructurado.
+- Arquitectura del proyecto:
+    - Mediante Vue, la arquitectura del proyecto será por componentes, donde cada funcionalidad, sección de la aplicación se encapsula en un archivo independiente que gestiona su propio estado y comportamiento.
+
+**Ejemplo de Convención para un Componente en Vue:**
+
+```vue
+<template>
+  <div>
+    <Button label="example" @click="generateExample"/>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'Example',
+    data() {
+      return {
+        numberOfExamples: 9
+      };
+    },
+    methods: {
+      generateExample() {
+        if (this.numberOfExamples > 0) {
+          this.numberOfExamples--;
+        }
+      }
+    }
+  };
+</script>
+
+<style scoped>
+  /* Aplicando Material Design a través de PrimeVue */
+  button {
+    background-color: #3cc7a8;
+    color: white;
+  }
+</style>
+```
+
+**Gherkin:**
+- Para redactar las pruebas automatizadas, seguimos la convención de [Gherkin Syntax](https://cucumber.io/docs/gherkin/). Esto permite una descripción clara y precisa de los escenarios de prueba en los archivos .feature.
+- Implementamos Given-When-Then para describir el comportamiento esperado en cada escenario.
+
+**Espaciado:**
+- Consideramos siempre colocar un espaciado entre operadores y parámetros en las funciones.
+
+Ejemplo:
+```vue
+<script>
+export default {
+  data() {
+    return {
+      example1: 23,
+      example2: 5,
+      example3: 1
+    };
+  },
+  mounted() {
+    this.availableExamples = this.example1 - this.example3 - this.example2;
+  }
+};
+</script>
+```
+
+**Comillas:**
+- En JavaScript dentro de Vue, implementaremos comillas simples('') para las cadenas.
+
+**Límite de Longitud de Línea:**
+- No debe exceder las 80 columnas por línea. Si ese fuera el caso, deberemos de dividir la linea del código para una mejor claridad y limpieza.
 
 
 ### 5.1.4. Software Deployment Configuration ###
