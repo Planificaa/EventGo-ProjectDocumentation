@@ -62,6 +62,21 @@ Enlance: https://trello.com/invite/b/68cf9fb9c584710a5768a36f/ATTIfe3ba144603fba
 
 En el tablero se pueden visualizar las user stories que se abarcaron en este sprint, así como el estado de las mismas (To-Do, In-Progress, Review, To-Fix, Done) y se les asignó story points con fechas de entrega.
 
+|    Sprint #    |                                                 | | Sprint 1 | | |                                  |                                               |
+|:--------------:|:-----------------------------------------------:|:--------:|:--------:|:--------:|:--------:|:--------------------------------:|:---------------------------------------------:|
+| **User Story** |                                                 | **Work-Item/Task** | | | |                                  |                                               |
+|    **ID**      |                    **Title**                    | **ID** | **Title** | **Description** | **Estimation (Hours)** |         **Assigned To**          | **Status (To-Do/ In-Process/To-Review/Done)** |
+|       ID       |            US01 Navegación sencilla             | TA01 | Menu con hipervinculacion | Cada hipervinculo debe de redirigir a una sección específica de la landing page | 2 | Meza Solórzano, Didier Sebastian |                     Done                      |
+|       ID       |          US02 Propuesta de valor clara          | TA01 | Hero | Se debe desarrollar un banner con una frase que represente a la aplicación web | 2 |  Paucar Zenteno, Jesús Fernando  |                     Done                      |
+|       ID       |            US05 Llamada a la acción             | TA01 | Call to action | Se debe desarrollar un botón call to action que redirija a la aplicación web | 1 | Hermoza Paredes, Bryan Norberto  |                     Done                      |
+|       ID       |           US03 Información segmentada           | TA01 | Benefits | crear la sección de beneficios de la plataforma web, que muestre los atractivos de la propuesta | 2 |   Paico Calderon, July Zelmira   |                     Done                      |
+|       ID       |      US04 Funcionalidades de la aplicación      | TA01 | Funcionalidades | Se debe desarrollar una sección que liste las funcionalidades que ofrece la plataforma web | 2 |   Paico Calderon, July Zelmira   |                     Done                      |
+|       ID       | US06 Visualización de tutorial de la aplicación | TA01 | About the product | Se desarrolla sección donde figura un video que explica el funcionamiento de la plataforma web. | 1 |   Paico Calderon, July Zelmira   |                     Done                      |
+|       ID       |           US07 Confianza y seguridad.           | TA01 | About us | Debe presentar una sección con información del equipo de trabajo | 2 | Crisanto Calle, Deybbi Anderson  |                     Done                      |
+|       ID       |             US08 Velocidad de carga             | TA01 | Loading | Se debe implementar funciones que permitan fácil loading a carga de información | 2 |  Paucar Zenteno, Jesús Fernando  |                     Done                      |
+|       ID       |         US09 Visualización de precios.          | TA01 | Suscripciones | Debe presentar la información de los precios de cada plan de suscripción | 2 | Hermoza Paredes, Bryan Norberto  |                     Done                      |
+|       ID       |             US10 Diseño responsive              | TA01 | Responsive | Se desarrolla implementar las configuraciones de quejas que diferentes tamaños de pantallas | 2 | Crisanto Calle, Deybbi Anderson  |                     Done                      | 
+
 #### 5.2.1.4. Development Evidence for Sprint Review ####
 
 
