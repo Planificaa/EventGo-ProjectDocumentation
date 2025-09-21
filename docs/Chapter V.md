@@ -238,7 +238,7 @@ Asegúrese de que todas las ramas del repositorio estén actualizadas. Posterior
 
 Una vez dentro del repositorio, haga clic en la pestaña **Settings** en la parte superior del repositorio.
 
-![settings.png](../img/Chapter%20V/settings.png)
+![settings-page.png](../img/Chapter%20V/settings-page.png)
 
 ##### 3. Selección de GitHub Pages
 
@@ -246,11 +246,15 @@ Dentro de la sección **Settings**, en el menú lateral, busque la opción denom
 
 ![pages.png](../img/Chapter%20V/pages.png)
 
-##### 4. Configuración de la rama principal
+##### 4. Configuración de GitHub Actions
 
-En la opción **Pages**, seleccione la rama principal (generalmente denominada **main** o **master**). Posteriormente, haga clic en el botón **Save** para iniciar el proceso de deploy de la página.
+En la opción **Pages**, seleccione la opción "Github Actions" y luego en la opción de "Configure" en el recuadro de 'Static HTML'
+Se aperturará un nuevo archivo de configuración en el cual se debe cambiar la rama por "main" y la carpeta por "./public". Finalmente, haga clic en el botón verde de "Start commit" para guardar los cambios.
 
-<br>
+![static-yml.png](../img/Chapter%20V/static-yml.png)
+
+<br> 
+
 
 ##### 5. Confirmación del deploy
 
@@ -258,10 +262,19 @@ Una vez que GitHub complete el proceso de deploy, en la parte superior de la sec
 
 <br>
 
+![deploy-static-1.png](../img/Chapter%20V/deploy-static-1.png) 
+<br>
+
+![deploy.png](../img/Chapter%20V/deploy.png)
+
+De esta manera, cuando se realice un nuevo commit desdelaramamain, GitHub automáticamente actualizará la **landing page** con los cambios realizados.
+
 ##### 6. Acceso a la página
 
 Finalmente, podrá acceder a la **landing page** desde el enlace que se generó al finalizar el deploy. Aquí está un ejemplo de enlace:  
-`https://`
+`https://planificaa.github.io/EventGo-Landing-Pague/`
+
+![despliegue-landing.png](../img/Chapter%20V/despliegue-landing.png)
 
 
 ## _5.2. Landing Page, Services & Applications Implementation_ ##
