@@ -826,5 +826,8 @@ En esta sección se presentan los diagramas de clases que representan la estruct
 | **Review** | Reseña sobre evento o servicio | - `id`: UUID - Identificador único<br>- `eventId`: UUID - ID del evento<br>- `hostId`: UUID - ID del anfitrión<br>- `organizerId`: UUID - ID del organizador<br>- `rating`: float - Calificación<br>- `comment`: String - Comentario<br>- `createdAt`: Date - Fecha de creación | - `createReview()`: Crea reseña<br>- `updateReview()`: Actualiza reseña |# Diccionario de Clases - Sistema EventGO
 
 ## _4.8. Database Design_ ##
-
 ### 4.8.1. Database Diagram ###
+En esta sección, se presenta nuestro diagrama de base de datos desarrollado en Vertabelo, con sus respectivas relaciones y entidades.
+
+![database-diagram.png](../img/Chapter%20IV/database-diagram.png)
+[Link diagrama Vertabelo](https://my.vertabelo.com/public-model-view/FULssyMHN0FcM2xM3exStZY4DopgWkvqmmBCXcTuCWpZyZGKwu3ksoDXA1VBUtV7?x=4300&y=5000&zoom=0.75)
