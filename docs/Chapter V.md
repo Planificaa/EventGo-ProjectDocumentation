@@ -44,7 +44,13 @@ En el Sprint 1, se enfocó el trabajo en diseñar y desarrollar la Landing Page 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators ####
 
-
+|            Team Member            | GitHub Username |    Header    | Footer | Inicio | Beneficios | Funcionalidades | Planes | About Us | About the product |
+|:---------------------------------:|:---------------:|:------------:|:------:|:------:|:----------:|:---------------:|:------:|:--------:|:-----------------:|
+|   Hermoza Paredes, Bryan Norberto |     WasNeo      |      C       |   C    |   C    |     C      |        C        |   L    |    L     |         C         |
+|  Meza Solórzano, Didier Sebastian |   DidierMeza    |      L       |   C    |   C    |     C      |        C        |   C    |    C     |         C         |
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |      C       |   L    |   C    |     C      |        C        |   C    |    C     |         C         |
+| Paucar Zenteno, Jesús Fernando    |  devFernando22  |      C       |   C    |   L    |     C      |        C        |   C    |    C     |         L         |
+|   Paico Calderon, July Zelmira    |   u20211d760    |      C       |   C    |   C    |     L      |        L        |   C    |    C     |         C         |
 
 #### 5.2.1.3. Sprint Backlog 1 ####
 
