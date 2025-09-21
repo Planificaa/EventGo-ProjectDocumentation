@@ -28,6 +28,18 @@ Aspiramos a liderar con innovación, empatía y compromiso hacia nuestros usuari
 | ![Foto de July](../img/Chapter%20I/foto_July.png) <br> July Zelmira Paico Calderon              | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una estudiante colaborativa, capaz de trabajar en equipo. Me gusta mucho la gestión de proyectos y organizar mi tiempo para alcanzar los objetivos planteados. En mis tiempos libres me gusta aprender cosas nuevas en plataformas en línea. | HTML, CSS, SQL, Metodologías ágiles (LEAN, SCRUM, LeSS), C++, Docker    |
 | ![Foto de Jesus](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/feature/chap1-startup-profile/img/Chapter%20I/foto-fernando.jpg?raw=true) <br> Jesús Fernando Paucar Zenteno             | Soy un estudiante de ingeniería de software con una gran pasión por la creación de soluciones innovadoras. Me considero una persona proactiva y orientada a resultados, siempre buscando aprender y aplicar nuevas tecnologías. Mi objetivo es contribuir de manera significativa al proyecto, asegurando que cada tarea se complete con la más alta calidad y eficiencia.                  |  C++, Python, HTML, CSS, JavaScript, SQL   |
 ## _1.2. Solution Profile_ ##
+La aplicación se llama "EventGo", desarrollada por la startup tecnológica Planificaa. Su propósito principal es transformar la manera en que se organizan los eventos, conectando de forma rápida y sencilla a clientes con organizadores profesionales o independientes. La plataforma centraliza todo el proceso: desde la búsqueda y comparación de organizadores hasta la gestión de cotizaciones, contratos, comunicación directa y coordinación de detalles.
+
+En definitiva, EventGo busca convertirse en la herramienta esencial para la planificación y ejecución de eventos, simplificando la experiencia tanto para clientes como para organizadores. Los clientes podrán encontrar al organizador ideal según sus necesidades y presupuesto, mientras que los organizadores contarán con funciones de gestión, calendarios personalizados y notas que optimizan su trabajo.
+
+Además, Planificaa apuesta por la innovación y las metodologías ágiles, con el objetivo de escalar regionalmente y consolidarse como referente en el desarrollo de soluciones digitales con propósito dentro de la industria de eventos. 
+
+<!-- Logo EventGo-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Planificaa/EventGo-ProjectDocumentation/81172029a2fc6dec78f054b5703417122b17355d/img/Chapter%20I/eventgos.jpg"/>
+
+  > <p align="center">Logo de "EventGo"</p>
+</p>
 
 ### 1.2.1. Antecedentes y problemática ###
 ### Antecedentes
