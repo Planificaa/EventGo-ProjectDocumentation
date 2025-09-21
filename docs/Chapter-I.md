@@ -31,3 +31,23 @@
 
 ## _1.3. Segmentos objetivo_ ##
 
+Para diseñar un producto que atienda de manera efectiva las necesidades de los clientes, se presenta a continuación un análisis de los principales segmentos:
+
+1. **Anfitriones de Eventos:**
+
+
+   - **Descripcion**: Personas u organizaciones que requieren contratar servicios profesionales para la planificación y realización de sus eventos.
+   - **Sexo:** Masculino y femenino
+   - **Edades:** Jóvenes adultos (18-34 años), adultos intermedios (35-54 años) y adultos mayores (55+).
+   - **Nivel socioeconómico**: Estratos A, B y C (alto, medio-alto y medio).
+   - **Necesidades por satisfacer:** Contar con acceso a organizadores confiables de acuerdo al tipo de evento, revisar perfiles completos con reseñas y experiencias previas, y mantener comunicación directa para personalizar cada detalle. Esto les brinda seguridad en la contratación, disminuye el tiempo invertido en la búsqueda y reduce el nivel de estrés durante la planificación.
+
+
+2. **Organizadores de Eventos :**
+
+
+   - **Descripción:** Profesionales o empresas que se dedican a organizar y coordinar eventos y que buscan incrementar su base de clientes.
+   - **Sexo:** Masculino y Femenino
+   - **Edades:** Jóvenes adultos (18-34 años), adultos intermedios (35-54 años) y adultos mayores (55+).
+   - **Nivel socioeconómico:** Clases A, B y C (alta, media-alta y media)
+   - **Necesidades por satisfacer:** Obtener nuevas oportunidades de negocio, gestionar eficientemente la comunicación con clientes, elaborar propuestas y contratos personalizados, y contar con herramientas específicas como agendas y calendarios de eventos. Esto contribuye a optimizar sus tareas, dar mayor visibilidad a su trabajo y profesionalizar su servicio.
