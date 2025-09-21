@@ -54,7 +54,13 @@ En el Sprint 1, se enfocó el trabajo en diseñar y desarrollar la Landing Page 
 
 #### 5.2.1.3. Sprint Backlog 1 ####
 
+Para el sprint 1 usamos la herramienta trello para organizar las tareas del equipo.
 
+Enlance: https://trello.com/invite/b/68cf9fb9c584710a5768a36f/ATTIfe3ba144603fbac432bba489eb041af805EA0880/eventgo-sprint-1 
+
+![trello-board.png](../img/Chapter%20V/trello-board.png)
+
+En el tablero se pueden visualizar las user stories que se abarcaron en este sprint, así como el estado de las mismas (To-Do, In-Progress, Review, To-Fix, Done) y se les asignó story points con fechas de entrega.
 
 #### 5.2.1.4. Development Evidence for Sprint Review ####
 
