@@ -118,7 +118,19 @@ Despues de finalizar el sprint 1, hemos logrado implementar todas las funcionali
 
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review ####
 
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "EventiGo". A continuación, se detalla la evidencia del despliegue de la Landing Page:
 
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://planificaa.github.io/EventGo-Landing-Pague </td>
+    <td> Desplegar Landing Page de EventiGo</td>
+  </tr>
+</table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review ####
 
