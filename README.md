@@ -128,6 +128,8 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
         TB1: En esta entrega me aseguré de comunicar de manera clara los contenidos y hallazgos del capítulo 2, realizando el análisis de los competidores y las entrevistas, y usando esa información para las demás ramas del proyecto. Adapté la información de forma clara para todos los miembros del equipo, de modo que pudieran entender y aprovechar lo presentado.<br><br>
         <strong>Meza Solòrzano Didier Sebastiàn</strong><br><br>
         TB1: Sustente la parte del Capítulo I: Introducción. En la presentación pude explicar de manera clara qué es nuestra startup, quiénes forman parte del equipo y sobre todo cuál es la problemática que buscamos resolver. Me enfoqué en usar un lenguaje sencillo y adaptado según la audiencia, de modo que tanto mis compañeros como el profesor entendieran la propuesta sin dificultades. Esto me ayudó a mejorar mi seguridad al hablar y a organizar mejor mis ideas al momento de comunicarme oralmente.
+              TP1: Expliqué al equipo el funcionamiento y diseño de profile en el frontend de EventGo. Adapté mi lenguaje según la audiencia, usando términos técnicos con desarrolladores y explicaciones simples al mostrar la interfaZ. 
+
 <br><br>
         <strong>July Zelmira Paico Calderon</strong><br><br>
         TB1: -Contribuyó de manera constante en las reuniones planificadas.
@@ -156,7 +158,8 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
         TB1: En esta entrega me aseguré de comunicar por escrito de manera clara los hallazgos del capítulo 2, incluyendo el análisis de competidores, entrevistas, journey mapping, empathy mapping y user personas, usando esta información para guiar las demás partes del proyecto y ayudar a alcanzar los objetivos para los distintos segmentos.<br><br>
         <strong>Meza Solòrzano Didier Sebastiàn</strong><br><br>
         TB1: Desarrollé completamente el Capítulo I, que incluye la descripción de la startup, los perfiles de los integrantes, los antecedentes, la problemática y el proceso de Lean UX (problem statements, assumptions, hipótesis y canvas). Además, definí los segmentos objetivo a los que va dirigido el proyecto. Todo el capítulo fue redactado de forma ordenada y clara, pensando en que cualquier persona pueda leerlo y comprender la propuesta sin necesidad de explicaciones adicionales.
-También apoyé en la creación del landing page de EventGo, lo cual complementó el trabajo escrito con un resultado práctico y visual. Gracias a esto, pude reforzar mi capacidad de comunicarme de forma escrita de manera efectiva, mostrando tanto la parte teórica como un producto tangible.<br><br>
+También apoyé en la creación del landing page de EventGo, lo cual complementó el trabajo escrito con un resultado práctico y visual. Gracias a esto, pude reforzar mi capacidad de comunicarme de forma escrita de manera efectiva, mostrando tanto la parte teórica como un producto tangible.
+ TP1: Documenté la implementación de profile en el frontend y redacté mensajes claros para los usuarios. Usé commits y comentarios descriptivos para mantener una comunicación efectiva con el equipo. <br><br>
         <strong>Jesús Fernando Paucar Zenteno</strong><br><br>
         TB1: -Colaboró en la redacción del capítulo asegurándome de que el contenido fuese comprensible y útil para el trabajo en conjunto.
 
