@@ -745,4 +745,10 @@ Para este segundo Sprint, hemos realizado la implementación y el despliegue del
   </tr>
 </table>
 
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase.jpeg](../img/Chapter%20V/firebase.jpeg) 
+
 
