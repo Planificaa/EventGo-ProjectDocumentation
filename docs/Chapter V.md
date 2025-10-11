@@ -651,3 +651,74 @@ En el tablero se pueden visualizar las user stories que se abarcaron en este spr
 
 </table>
 
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+![quote-management-page](../assets/chapter-V/quote-management.png)
+
+**Quote Order Form Component**
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+
+![quote-order-create-and-edit](../assets/chapter-V/quote-order-create-and-edit.png)
+
+Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página **Quote Management**
+![quote-order-created](../assets/chapter-V/quote-order-created.png)
+
+
+
+**Service Item Form Component**
+
+Este es un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones
+![service-item-create-and-edit](../assets/chapter-V/service-item-create-and-edit.png)
+
+Una vez definido el servicio, se registrará en el Fake API y se mostrará en el formulario de Quote Order
+![quote-order](../assets/chapter-V/service-added-quote-order.png)
+
+
+**Bounded Context Task Management**
+
+**Task Management**
+
+Esta es la página donde se visualiza el estado actual de la organizacion de las tareas del evento. Se puede crear tareas nuevas y asignarlas a un estado especifico, dependiendo del enfoque del organizador.
+Con el objetivo de mantener al anfitrion de eventos siempre al tanto de las tareas que se están realizando, las que faltan por hacer, por revisar y completadas.
+
+![task-management-page](../assets/chapter-V/task-management.PNG)
+
+**Edit Task Component**
+
+Este es un componente donde se podra editar una tarea, se podra cambiar el titulo, descripcion y columna a la que pertenece.
+
+![task-management-page](../assets/chapter-V/edit-task-management.PNG)
+
+**Event Management**
+
+Este es un componente que permitirá al organizador ver sus eventos creados, así como ver un resumen del evento.
+
+![event-management-page](../assets/chapter-V/event-management.PNG)
+
+**Create Event Component**
+
+Este es un componente que permitirá al organizador crear un nuevo evento, definiendo el nombre del evento, la fecha, la ubicación y una breve descripción del evento.
+
+![create-event-page](../assets/chapter-V/create-event.PNG)
+
+**Profile Management**
+
+Este es un componente que permitirá al organizador ver su perfil, así como ver las reseñas y calificaciones que tiene el organizador.
+
+![profile-management-page](../assets/chapter-V/profile-management.PNG)
+
+**Direct Communication**
+
+Este es un componente que permitirá al organizador ver sus mensajes, así como enviar y recibir mensajes.
+
+![direct-communication-page](../assets/chapter-V/direct-communication.PNG)
+
+
+
