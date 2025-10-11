@@ -1,6 +1,7 @@
 # Capítulo 5: Product Implementation, Validation & Deployment #
 
-## _5.1. Software Configuration Management_ ##
+## _5.1
+. Software Configuration Management_ ##
 
 Para asegurar la coherencia, seguimiento y excelencia durante todo el desarrollo de EventGo, el equipo ha establecido una serie de criterios y estándares dirigidos al control de configuraciones. En esta sección se detallan los procedimientos implementados para administrar el código fuente, establecer los ambientes de desarrollo y estructurar el proceso de implementación de la aplicación web.
 Dichos lineamientos garantizan la estabilidad de las versiones del software, facilitan la colaboración efectiva entre los miembros del equipo y aseguran que los despliegues sean supervisados y replicables.
@@ -659,26 +660,27 @@ En el tablero se pueden visualizar las user stories que se abarcaron en este spr
 
 Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
 
-![quote-management-page](../assets/chapter-V/quote-management.png)
+![quote-management.png](../img/Chapter%20V/quote-management.png)
 
 **Quote Order Form Component**
 
 Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
 
-![quote-order-create-and-edit](../assets/chapter-V/quote-order-create-and-edit.png)
+![quote-order-create-and-edit.png](../img/Chapter%20V/quote-order-create-and-edit.png)
 
 Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página **Quote Management**
-![quote-order-created](../assets/chapter-V/quote-order-created.png)
+![quote-order-created.png](../img/Chapter%20V/quote-order-created.png)
 
+![quote-list.png](../img/Chapter%20V/quote-list.png)
 
 
 **Service Item Form Component**
 
 Este es un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones
-![service-item-create-and-edit](../assets/chapter-V/service-item-create-and-edit.png)
+![service-item-create-and-edit.png](../img/Chapter%20V/service-item-create-and-edit.png)
 
 Una vez definido el servicio, se registrará en el Fake API y se mostrará en el formulario de Quote Order
-![quote-order](../assets/chapter-V/service-added-quote-order.png)
+![service-added-quote-order.png](../img/Chapter%20V/service-added-quote-order.png)
 
 
 **Bounded Context Task Management**
@@ -688,37 +690,37 @@ Una vez definido el servicio, se registrará en el Fake API y se mostrará en el
 Esta es la página donde se visualiza el estado actual de la organizacion de las tareas del evento. Se puede crear tareas nuevas y asignarlas a un estado especifico, dependiendo del enfoque del organizador.
 Con el objetivo de mantener al anfitrion de eventos siempre al tanto de las tareas que se están realizando, las que faltan por hacer, por revisar y completadas.
 
-![task-management-page](../assets/chapter-V/task-management.PNG)
+![task-management.png](../img/Chapter%20V/task-management.png)
 
 **Edit Task Component**
 
 Este es un componente donde se podra editar una tarea, se podra cambiar el titulo, descripcion y columna a la que pertenece.
 
-![task-management-page](../assets/chapter-V/edit-task-management.PNG)
+![edit-task-management.png](../img/Chapter%20V/edit-task-management.png)
 
 **Event Management**
 
 Este es un componente que permitirá al organizador ver sus eventos creados, así como ver un resumen del evento.
 
-![event-management-page](../assets/chapter-V/event-management.PNG)
+![event-management.png](../img/Chapter%20V/event-management.png)
 
 **Create Event Component**
 
 Este es un componente que permitirá al organizador crear un nuevo evento, definiendo el nombre del evento, la fecha, la ubicación y una breve descripción del evento.
 
-![create-event-page](../assets/chapter-V/create-event.PNG)
+![create-event.png](../img/Chapter%20V/create-event.png)
 
 **Profile Management**
 
 Este es un componente que permitirá al organizador ver su perfil, así como ver las reseñas y calificaciones que tiene el organizador.
 
-![profile-management-page](../assets/chapter-V/profile-management.PNG)
+![profile-management.png](../img/Chapter%20V/profile-management.png)
 
 **Direct Communication**
 
 Este es un componente que permitirá al organizador ver sus mensajes, así como enviar y recibir mensajes.
 
-![direct-communication-page](../assets/chapter-V/direct-communication.PNG)
+![direct-communication.png](../img/Chapter%20V/direct-communication.png)
 
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
