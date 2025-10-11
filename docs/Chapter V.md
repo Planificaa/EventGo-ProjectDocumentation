@@ -398,3 +398,34 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 ![network-part1-landing.png](../img/Chapter%20V/network-part1-landing.png)
 ![network-part2-landing.png](../img/Chapter%20V/network-part2-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
+
+## 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2.
+
+A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para Call-To-Action para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de StockVin.
+
+| Sprint #                                     | Sprint 2                                               |
+|----------------------------------------------|--------------------------------------------------------|
+| <b> Sprint planning Background </b>          | --                                                     |
+| Date                                         | 2025/10/06                                             |
+| Time                                         | 11:00 AM                                               |
+| Location                                     | Reunión por Discord |
+| Prepared By                                  | Deybbi Anderson Crisanto Calle                       |
+| Attendees                                    | Crisanto Calle  Deybbi Anderson / Paico Calderon July Zelmira / Paucar Zenteno Jesus Fernando / Meza Solòrzano Didier Sebastiàn   |
+| Sprint 1 Review Summary                      | En el sprint anterior, el equipo completó una primera vista de la Landing Page implementando las secciones y estilos básicos que necesitará, como Beneficios, Planes e Información sobre la Startup. |
+| Sprint 1 Retrospective Summary               | El principal aspecto que el equipo debe mejorar es la mayor comunicación entre los miembros para que se mantengan al tanto del progreso de cada uno. Ahora, el plan para el próximo sprint es trabajar de forma más organizada para que cada miembro sepa qué hacer.  |
+| <b> Sprint Goal & User Stories </b>          | --                                                     |
+| Sprint 2 Goals                               | <b> Nuestro objetivo en este sprint es desarrollar la primera versión funcional del Frontend de EventGo utilizando Vue, priorizando la creación de componentes reutilizables, un diseño responsive y una navegación fluida. Nos enfocaremos en implementar las secciones ya definidas (Inicio, Quote, Settings y Calendar) con un código limpio, modular y mantenible, apoyándonos en librerías de UI modernas para lograr una experiencia visual coherente. La meta es entregar una versión navegable y adaptable a distintos dispositivos, que permita realizar pruebas tempranas de usabilidad y verificar que la interfaz cumpla con los objetivos de claridad, atractivo visual y facilidad de uso. Esta entrega será validada mediante una demo funcional, desplegada de forma local o en un hosting temporal (como Netlify o Vercel), para obtener feedback interno antes de avanzar hacia las etapas de integración con el backend o funcionalidades más complejas. | 
+| Sprint 2 Velocity                            | 26                                                    |
+| Sum of Story Points                          | 32                                                     |
+
+### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: TaskManagement, ProfileManagement ,QuotesManagement, Event Management y Direc-comunication)
+
+| Team Member                        | GitHub Username | TaskManagement | ProfileManagement | QuotesManagement | Event Management | Direc-comunication| 
+|------------------------------------|-----------------|---------------------|-----------|-------------------|---------------------------------------------------|---------|
+| Crisanto Calle Deybbi Anderson     | Dacc03    |         |         |     L     |            |   L     |         
+| Paico Calderon July Zelmira   | JulyP      |         |          |         |      L      |       |     
+| Paucar Zaenteno Jesus Fernando       | devFernando22      |    L     |          |          |           |        | 
+| Meza Solòrzano Didier Sebastiàn    | Didier04x       |       |   L       |          |            |        |
