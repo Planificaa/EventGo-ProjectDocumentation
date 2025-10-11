@@ -752,3 +752,21 @@ Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Fir
 ![firebase.jpeg](../img/Chapter%20V/firebase.jpeg) 
 
 
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Vue 3, PrimeVue, PrimeFlex, Primeicons, entre otros.
+Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
+
+![collaboration-insights](../assets/chapter-V/collaboration-insights.png)
+
+En esta imagen se muestran el total de commits que hizo cada integrante durante el desarrollo del Frontend
+
+![contributors-frontend](../assets/chapter-V/Contributors.png)
+
+En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
+
+![gitflow-1](../assets/chapter-V/gitflow-feature-branch.png)
+
+![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
+
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
