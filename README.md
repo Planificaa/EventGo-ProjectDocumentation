@@ -112,6 +112,24 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
 
 <img src="/img/README/branches.PNG" alt="Commits" width="400" height="300">
 
+## Segundo Avance (Trabajo Parcial) ##
+
+Respecto del segundo avance del proyecto, cada miembro del equipo realizó en mayor cantidad correcciones sobre algunos aspectos del primer avance e incorporación de la sección del segundo sprint. A continuación, se describen los aportes principales realizados por cada integrante:
+- El integrante Deybbi Anderson Crisanto Calle implementó la interfaz de QuotesManagement y Direct-Comunication.
+- Ea integrante Paico Calderon July Zelmira implementó Event Management.
+- El integrante Didier Sebastian Meza Solórzano implementó la interfaz de profilemanagement.
+- El integrante Paucar Zaenteno Jesus Fernando implemento la interfaz de TaskManagement.
+
+Finalmente, este gráfico representa la cantidad de commits realizados por cada miembro del equipo en el repositorio del proyecto. Cada barra representa a un miembro del equipo y la altura de la barra indica el número total de commits realizados por esa persona.
+
+<img src="/img/README/top-commiters.PNG" alt="Commits" width="400" height="300">
+
+### Ramificación del proyecto usando GitFlow:
+
+Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
+
+<img src="/img/README/branches2.jpg" alt="Commits" width="400" height="300">
+
 # Student OutCome
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -126,7 +144,8 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
       <td>3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia</td>
       <td>
         <strong>Deybbi Anderson Crisanto Calle</strong><br><br>
-       TB1:Coordinó parte de las reuniones para mantener el enfoque en las prioridades del proyecto. Propuso estrategias para mejorar la distribución de tareas, asegurando que todos pudieran participar de acuerdo con sus fortalezas. Apoyó a los compañeros en la integración de los avances individuales en el repositorio común del proyecto.<br><br>
+       TB1:Coordinó parte de las reuniones para mantener el enfoque en las prioridades del proyecto. Propuso estrategias para mejorar la distribución de tareas, asegurando que todos pudieran participar de acuerdo con sus fortalezas. Apoyó a los compañeros en la integración de los avances individuales en el repositorio común del proyecto.
+          TP1: Me asegure de comunicar de forma clara las tareas a realizar sobre el desarrollo del frontend y las reunios del equipo de trabajo dando a detalle a cada integrante del grupo, como tambien el desarrollo del sprint 2. <br><br>
         <strong>Hermoza Paredes Bryan Norberto</strong><br><br>
         TB1: En esta entrega me aseguré de comunicar de manera clara los contenidos y hallazgos del capítulo 2, realizando el análisis de los competidores y las entrevistas, y usando esa información para las demás ramas del proyecto. Adapté la información de forma clara para todos los miembros del equipo, de modo que pudieran entender y aprovechar lo presentado.<br><br>
         <strong>Meza Solòrzano Didier Sebastiàn</strong><br><br>
@@ -136,11 +155,13 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
 <br><br>
         <strong>July Zelmira Paico Calderon</strong><br><br>
         TB1: -Contribuyó de manera constante en las reuniones planificadas.
--Facilitó la organización de tareas, asegurándose de que cada integrante comprendiera sus responsabilidades y tiempos de entrega<br><br>
+-Facilitó la organización de tareas, asegurándose de que cada integrante comprendiera sus responsabilidades y tiempos de entrega
+TP1:  participé activamente en reuniones presentando la lógica detrás de la generación de métricas, el diseño visual y su interpretación.<br><br>
         <strong>Jesús Fernando Paucar Zenteno</strong><br><br>
         TB1: -Contribuyó en la organización de los lineamientos de diseño, compartiéndolos de manera clara para que todos pudiéramos entender la estructura del capítulo y aportar en base a ello.
 
 -Apoyó en la explicación de los diagramas y mock-ups, recibiendo las sugerencias del grupo para mejorar las propuestas antes de consolidarlas.
+ TP1: Me asegure de comunicar de forma clara las tareas a realizar sobre el desarrollo del frontend y las reunios del equipo de trabajo dando a detalle a cada integrante del grupo, como tambien el desarrollo del sprint 2.
       </td>
       <td>
         - A través del análisis de entrevistas y la definición de un lenguaje compartido, el equipo logró establecer un entendimiento común tanto interno como con el negocio, lo que favoreció la eficiencia en sus interacciones.<br><br>
@@ -156,7 +177,8 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
 
 - Escuchó activamente las propuestas de los demás y promovió consensos antes de tomar decisiones técnicas.
 
-- Propuso esquemas de trabajo semanal para asegurar el cumplimiento de tareas y tiempos de entrega.<br><br>
+- Propuso esquemas de trabajo semanal para asegurar el cumplimiento de tareas y tiempos de entrega.
+  tp1: Documenté la implementación de Quotes y directcomunication en el frontend y redacté mensajes claros para los usuarios. Usé commits y comentarios descriptivos para mantener una comunicación efectiva con el equipo.<br><br>
         <strong>Hermoza Paredes Bryan Norberto</strong><br><br>
         TB1: En esta entrega me aseguré de comunicar por escrito de manera clara los hallazgos del capítulo 2, incluyendo el análisis de competidores, entrevistas, journey mapping, empathy mapping y user personas, usando esta información para guiar las demás partes del proyecto y ayudar a alcanzar los objetivos para los distintos segmentos.<br><br>
         <strong>Meza Solòrzano Didier Sebastiàn</strong><br><br>
@@ -165,11 +187,11 @@ También apoyé en la creación del landing page de EventGo, lo cual complement�
  TP1: Documenté la implementación de profile en el frontend y redacté mensajes claros para los usuarios. Usé commits y comentarios descriptivos para mantener una comunicación efectiva con el equipo. <br><br>
         <strong>Jesús Fernando Paucar Zenteno</strong><br><br>
         TB1: -Colaboró en la redacción del capítulo asegurándome de que el contenido fuese comprensible y útil para el trabajo en conjunto.
-
+  tp1: Documenté la implementación de Task Management en el frontend y redacté mensajes claros para los usuarios. Usé commits y comentarios descriptivos para mantener una comunicación efectiva con el equipo.
 -Propició un espacio de diálogo abierto en el equipo para escuchar ideas y ajustar los entregables de acuerdo a las recomendaciones de todos.<br><br>
         <strong>July Zelmira Paico Calderon</strong><br><br>
         TB1: - Impulsó la integración de todos los integrantes, asegurando su participación en el proyecto.
-
+  tp1: Documenté la implementación de eventmanagement en el frontend y redacté mensajes claros para los usuarios. Usé commits y comentarios descriptivos para mantener una comunicación efectiva con el equipo.
 - Propició espacios de diálogo abierto para que cada miembro pudiera compartir sus ideas antes de tomar decisiones importantes.
       </td>
       <td>
