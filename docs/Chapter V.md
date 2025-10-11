@@ -436,6 +436,11 @@ Para el sprint 2 usamos la herramienta trello para organizar las tareas del equi
 
 Link de enlace del Trello: https://trello.com/invite/b/68e9c721f4d00cbac602db94/ATTI8f88418c7ca80434b0aeff65f24d3d4fEF5EC824/eventgo-sprint-2 
 
+![trello-sprint-2.png](../img/Chapter%20V/trello-sprint-2.png)
+
+En el tablero se pueden visualizar las user stories que se abarcaron en este sprint, así como el estado de las mismas (To-Do, In-Progress, Review, To-Fix, Done) y se les asignó story points con fechas de entrega.
+
+
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -573,3 +578,76 @@ Link de enlace del Trello: https://trello.com/invite/b/68e9c721f4d00cbac602db94/
     <td align="center"> Done</td>
   </tr>
 </table>
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="6" align="center"> https://github.com/Planificaa/eventgo-frontend.git </td>
+    <td align="center"> feature/event-manager</td>
+    <td align="center"> e9962e8</td>
+    <td align="center"> feat(event-manager): improve filtering, sorting and pagination using primevue.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/task-management</td>
+    <td align="center"> 4deb6d6</td>
+    <td align="center"> fix(task-management): update task link in app header to correct route.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task-management</td>
+    <td align="center">1d8bba</td>
+    <td align="center"> fix: update task link in AppHeader to correct route.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> e5cf384</td>
+    <td align="center"> feat(quote-management): update API base URL to production server.</td>
+    <td align="center"> ---</td>
+    <td align="center">3 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/Profile-managment</td>
+    <td align="center"> e643aae</td>
+    <td align="center"> feat(Profile-managment): add all about profile-management</td>
+    <td align="center"> ---</td>
+    <td align="center">3 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task-management</td>
+    <td align="center"> 7d8cb57</td>
+    <td align="center"> Update TaskEditPage.vue</td>
+    <td align="center"> ---</td>
+    <td align="center">4 hours ago</td>
+  </tr>
+
+  <tr>
+    <td align="center"> https://github.com/Planificaa/eventgo-frontend.git </td>
+    <td align="center"> feature/task-management</td>
+    <td align="center"> 3b33b74</td>
+    <td align="center"> Update TaskCreatePage.vue</td>
+    <td align="center"> ---</td>
+    <td align="center"> 4 hours ago</td>
+  </tr>
+
+</table>
+
