@@ -721,4 +721,28 @@ Este es un componente que permitirá al organizador ver sus mensajes, así como 
 ![direct-communication-page](../assets/chapter-V/direct-communication.PNG)
 
 
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "EventGo"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://planificaa.github.io/EventGo-Landing-Pague/ </td>
+    <td> Desplegar Landing Page de EventGo</td>
+  </tr>
+  <tr>
+    <td> https://eventgo-e7169.web.app/ </td>
+    <td> Desplegar Front End</td>
+  </tr>
+  <tr>
+    <td> https://data-jaon-eventgo.onrender.com/ </td>
+    <td> Desplegar Fake API</td>
+  </tr>
+</table>
+
 
