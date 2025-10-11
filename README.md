@@ -81,7 +81,10 @@
 | 1.0     | 20-09-2025 | Deybbi Crisanto  | Se añadio la sección de Database Diagram en el capítulo 4.                                    |
 | 1.0     | 20-09-2025 | July Paico | Se añadio la sección de Software Configuration Management en el capítulo 5.                   |
 | 1.0     | 20-09-2025 | July Paico  | Se añadio la sección de Sprint 1 en el capítulo 5.                                            |
-
+| 2.0     | 08-10-2025 | July Paico   | Se añadio la sección de Sprint 2 en el capítulo 5.                                            |
+| 2.0     | 20-09-2025 | July Paico  | Se añadio la sección de Software Configuration Management en el capítulo 5.                   |
+| 2.0     | 20-09-2025 | July Paico  | Se añadio la sección de Sprint 2 en el capítulo 5.                                            |
+| 2.0     | 08-10-2025 | July Paico  | Se añadio la sección de Sprint planing 2 en el capítulo 5.                                    |
 # Project Report Collaboration Insights
 
 Repositorio del **Project Report**: https://github.com/Planificaa/EventGo-ProjectDocumentation.git
