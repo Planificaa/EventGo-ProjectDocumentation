@@ -429,3 +429,147 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 | Paico Calderon July Zelmira   | JulyP      |         |          |         |      L      |       |     
 | Paucar Zaenteno Jesus Fernando       | devFernando22      |    L     |          |          |           |        | 
 | Meza Solòrzano Didier Sebastiàn    | Didier04x       |       |   L       |          |            |        |
+
+#### 5.2.2.3.Sprint Backlog 2.
+
+Para el sprint 2 usamos la herramienta trello para organizar las tareas del equipo.
+
+Link de enlace del Trello: https://trello.com/invite/b/68e9c721f4d00cbac602db94/ATTI8f88418c7ca80434b0aeff65f24d3d4fEF5EC824/eventgo-sprint-2 
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> US24 </td>
+    <td rowspan="3" align="center"> Solicitar cotización a un organizador</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Create a quote management</td>
+    <td align="center">Crear un formulario para generar una cotización </td>
+    <td align="center"> 3</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center"> Add component to create and edit services into a quote</td>
+    <td align="center"> Crea componentes para crear y editar cotizaciones en una tabla</td>
+    <td align="center"> 3</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of quotes</td>
+    <td align="center"> Crea un servicio para acceder al fake api y hacer operaciones de CRUD</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US21 </td>
+    <td rowspan="1" align="center"> gestion de mensajes</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a message component to view messages </td>
+    <td align="center"> Se llama a un servicio de mensajes para el organizador.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Deybbi Anderson, Crisanto Calle</td>
+    <td align="center">Done</td>
+  </tr>
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US19 </td>
+    <td rowspan="1" align="center"> Gestión de presupuesto del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Add external service for CRUD operations of services into a quote</td>
+    <td align="center"> Se crea un servicio para acceder al apifake y hacer operaciones de crud.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> US18 </td>
+    <td rowspan="3" align="center"> Lista de tareas del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a task management board</td>
+    <td align="center"> crea un board de gestión de tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paucar Zaenteno Jesus Fernando </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add a component to create and edit tasks</td>
+    <td align="center"> Crea componentes para crear y editar tareas en el task board</td>
+    <td align="center"> 3</td>
+    <td align="center"> Paucar Zaenteno Jesus Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of tasks</td>
+    <td align="center"> Crea un servicio para acceder al fake api y obtener, editar o elimnar datos de las tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paucar Zaenteno Jesus Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> US22 </td>
+    <td rowspan="1" align="center"> Visualización de resumen del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create event summary</td>
+    <td align="center"> Se debe desarrollar un card que muestre el resumen del evento</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center"> US23 </td>
+    <td rowspan="2" align="center"> Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Organizer profile</td>
+    <td align="center"> Se desarrolla secion de perfil del organizador.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Meza Solórzano Didier Sebastián </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add Reviews and rating</td>
+    <td align="center"> Crea una vista con las reseñas y calificaciones que tiene el organizador.</td>
+    <td align="center"> 2</td>
+    <td align="center">Meza Solórzano Didier Sebastián</td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> US17 </td>
+    <td rowspan="1" align="center"> Registro de nuevo evento.</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a new event</td>
+    <td align="center"> Crea un componente que genere un evento cuando se apruebe la cotización.</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
