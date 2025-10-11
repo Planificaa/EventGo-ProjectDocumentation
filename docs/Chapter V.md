@@ -402,7 +402,7 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 ## 5.2.2. Sprint 2
 ### 5.2.2.1. Sprint Planning 2.
 
-A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para Call-To-Action para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de StockVin.
+A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del segundo sprint. Además, para este sprint se definieron dos objetivos para cubrir los aspectos de sitio web estático y aplicación front-end. El primer objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir secciones para Call-To-Action para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en el desarrollo y despliegue de la primera versión de la aplicación front-end de Planifica.
 
 | Sprint #                                     | Sprint 2                                               |
 |----------------------------------------------|--------------------------------------------------------|
