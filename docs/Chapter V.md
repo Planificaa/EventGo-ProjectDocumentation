@@ -772,3 +772,37 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 ![gitflow-feature-branch-2.png](../img/Chapter%20V/gitflow-feature-branch-2.png)
 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+
+### 5.2.3. Sprint 3
+
+Durante este Sprint se desarrolló la primera versión funcional del **backend de EventGo**, además de aplicar mejoras y ajustes tanto en la landing page como en el frontend. Para ello se definieron tareas orientadas a las funcionalidades esenciales del proyecto, como la gestión de cotizaciones para eventos y la creación de tareas involucradas en su organización.
+
+---
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | **Sprint 3** |
+|-------------|--------------|
+| **Sprint Planning Background** | |
+| **Date** | 07/11/25 |
+| **Time** | 11:40 horas |
+| **Location** | Reunión presencial – Aula UPC VH107 |
+| **Prepared By** | **Meza Solórzano, Didier Sebastián** |
+| **Attendees** | - Paucar, Jesús Fernando <br> - Deybbi Anderson Crisanto Calle <br>  - July Zelmira Paico Calderón |
+| **Sprint 2 Review Summary** | Durante el Sprint 2 se logró estructurar y diseñar la landing page y el frontend inicial de EventGo, identificando secciones importantes y los componentes necesarios para ilustrar el comportamiento esperado de la aplicación. Además, se establecieron las tecnologías principales del proyecto: Angular y Angular Material. |
+| **Sprint 2 Retrospective Summary** | El equipo destacó la importancia del diseño visual y la consistencia estructural para captar usuarios. Asimismo, se identificó la necesidad de definir estándares y guías de código que faciliten la escalabilidad del desarrollo. |
+| **Sprint 3 Goal** | El objetivo de este Sprint es proporcionar información más completa sobre EventGo y el equipo desarrollador, además de optimizar la conversión de visitantes mediante nuevas funcionalidades. Se implementarán características como búsqueda de organizadores, planes de suscripción, mensajería entre anfitriones y organizadores, notificaciones, autenticación y la gestión de eventos, tareas y cotizaciones mediante una API. El Sprint se considerará exitoso cuando los usuarios puedan buscar organizadores, adquirir planes mensuales, comunicarse por chat, recibir notificaciones relevantes y los organizadores puedan administrar eventos, tareas y cotizaciones desde los endpoints desarrollados. |
+| **Sprint 3 Velocity** | 26 (Primer Sprint estimado) |
+| **Sum of Story Points** | 22 Story Points |
+
+---
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| **Team Member** | **GitHub Username** | **Task Management** | **Profile Management** | **Quote Management** | **Event Management** | **Review Management** |
+|-----------------|---------------------|----------------------|-------------------------|-----------------------|-----------------------|------------------------|
+| Paucar, Jesús Fernando | devFernando22 | L | C | C | C | C |
+| Crisanto Calle, Deybbi Anderson | Dacc03 | C | L | C | C | C |
+| Paico Calderón, July Zelmira | JulyP | C | C | C | L | C |
+| Meza Solórzano, Didier Sebastián | Didier04 | C | C | C | C | L |
+
