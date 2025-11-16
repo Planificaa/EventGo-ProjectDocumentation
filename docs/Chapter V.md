@@ -875,3 +875,52 @@ https://github.com/Planificaa/EventGo-Landing-Pague
 | feature/about-the-team    | b6afb677   | feat(about-the-team): add team section in both languages    | 16/11/2025  |
 | feature/header            | 34b801d0   | chore: adjust order of language switcher buttons            | 16/11/2025  |
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3 se completó la ejecución y validación de la segunda versión funcional del sistema web, junto con la primera implementación operativa del backend de EventGo. A continuación, se adjuntan las capturas correspondientes al funcionamiento del backend en tiempo real.
+
+**Backend – Evidencias de Ejecución**
+
+![execution-backend-1](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/swa1.jpg?raw=true)
+
+![execution-backend-2](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/swa2.jpg?raw=true)
+
+![execution-backend-3](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/swa3.jpg?raw=true)
+
+![execution-backend-4](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/swa4.jpg?raw=true)
+
+![execution-backend-5](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/swa5.jpg?raw=true)
+
+
+---
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Según la documentación mostrada en Swagger durante el Sprint 3, estos son los endpoints habilitados para la gestión de cotizaciones y servicios:
+
+| **Método HTTP** | **Endpoint** | **Descripción** |
+|---|---|---|
+| GET | `/api/v1/organizers/{organizerId}/quotes` | Recupera todas las cotizaciones de un organizador. |
+| GET | `/api/v1/quotes/{quoteId}` | Obtiene los datos de una cotización específica. |
+| PUT | `/api/v1/quotes/{quoteId}` | Actualiza una cotización por su ID. |
+| DELETE | `/api/v1/quotes/{quoteId}` | Elimina una cotización. |
+| POST | `/api/v1/quotes` | Crea una nueva cotización. |
+| POST | `/api/v1/quotes/{quoteId}/confirmations` | Marca una cotización como “Aceptada” (Accepted). |
+| POST | `/api/v1/quotes/{quoteId}/rejections` | Marca una cotización como “Rechazada” (Rejected). |
+| GET | `/api/v1/quotes/{quoteId}/service-items/{serviceItemId}` | Obtiene un ítem de servicio de una cotización. |
+| PUT | `/api/v1/quotes/{quoteId}/service-items/{serviceItemId}` | Actualiza un ítem de servicio existente. |
+| DELETE | `/api/v1/quotes/{quoteId}/service-items/{serviceItemId}` | Borra un ítem de servicio. |
+| POST | `/api/v1/quotes/{quoteId}/service-items` | Añade un nuevo servicio a una cotización. |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Lista todos los ítems de servicio de esa cotización. |
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se completó el despliegue operativo del backend de EventGo en la plataforma Render, asegurando disponibilidad y acceso constante para pruebas del equipo.
+
+**Backend – Evidencia de Despliegue**
+
+![render-deploy](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/we2.PNG?raw=true)
+
+
