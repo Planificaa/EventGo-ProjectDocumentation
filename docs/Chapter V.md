@@ -806,3 +806,72 @@ Durante este Sprint se desarrolló la primera versión funcional del **backend d
 | Paico Calderón, July Zelmira | JulyP | C | C | C | L | C |
 | Meza Solórzano, Didier Sebastián | Didier04 | C | C | C | C | L |
 
+## 5.2.3.3. Sprint Backlog 3
+
+Para el Sprint 3 se empleó **Trello** como herramienta principal para coordinar, asignar y monitorear las tareas del equipo. Esta organización permitió mantener claridad en el flujo de trabajo y asegurar el cumplimiento de los entregables.
+
+![sprint-backlog-3](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/trello3.PNG?raw=true)
+
+**Enlace al tablero:**  
+https://trello.com/invite/b/6919724205211f5dbfc0f78a/ATTIbc7f9255d7a4ffa73de15aa0101296923E83C54E/eventgo-sprint-3
+
+---
+
+### **Sprint 3 – User Stories y Tareas**
+
+| User Story | Título                        | Tarea | Título de la Tarea                        | Descripción                                                         | Horas | Asignado a                        | Estado      |
+|------------|-------------------------------|--------|--------------------------------------------|---------------------------------------------------------------------|-------|----------------------------------|-------------|
+| US26       | Calificar organizador tras evento | TA09  | Crear reseña                               | Registrar una reseña vinculada al perfil y al evento.               | 2     | Meza Solórzano, Didier Sebastián | Done        |
+| US26       | Calificar organizador tras evento | TA05  | Implementar reglas de reseñas              | Implementación de reglas de negocio para la generación de reseñas.  | 2     | Meza Solórzano, Didier Sebastián | Done        |
+| US18       | Lista de tareas del evento       | TA01  | Cambiar estado de tarea                    | Habilitar la opción de cambiar el estado de las tareas.             | 2     | Paucar, Jesús Fernando           | In Progress |
+| US18       | Lista de tareas del evento       | TA14  | Crear lista de tareas                      | Crear la sección de tareas para los organizadores.                  | 2     | Paucar, Jesús Fernando           | In Progress |
+| US28       | Filtro de eventos sociales       | TA02  | Implementar filtros                         | Agregar operaciones que permitan filtrar eventos.                   | 3     | Paico Calderón, July Zelmira     | Done        |
+| US19       | Gestión del presupuesto          | TA07  | Crear cotización                            | Crear una cotización para el organizador.                           | 2     | Meza Solórzano, Didier Sebastián | Done        |
+| US19       | Gestión del presupuesto          | TA06  | Reglas de negocio para cotizaciones         | Implementación de reglas de negocio del módulo de cotizaciones.     | 3     | Meza Solórzano, Didier Sebastián | Done        |
+| US29       | Visualización de eventos         | TA11  | Crear/eliminar eventos                      | Implementar operaciones CRUD para gestionar eventos.                | 4     | Paico Calderón, July Zelmira     | Done        |
+| US31       | Perfiles de organizadores        | TA08  | Crear perfil                                 | Crear el registro de un perfil de organizador.                      | 2     | Crisanto Calle, Deybbi Anderson  | Done        |
+| US31       | Perfiles de organizadores        | TA10  | Reglas de negocio de perfiles                | Implementar reglas de negocio para perfiles.                        | 2     | Crisanto Calle, Deybbi Anderson  | Done        |
+| US07       | Confianza y seguridad            | TA03  | Crear sección About Us                      | Desarrollar sección informativa en el landing page.                 | 1     | Meza Solórzano, Didier Sebastián | Done        |
+| US07       | Confianza y seguridad            | TA04  | Crear sección del producto                  | Añadir una sección informativa sobre el producto.                   | 1     | Meza Solórzano, Didier Sebastián | In Progress |
+
+---
+
+## **5.2.3.4. Evidencias de Desarrollo – Sprint Review**
+
+A continuación, se incluyen los commits registrados entre el **01 y el 16 de noviembre del 2025** en los repositorios Backend y Frontend del proyecto **EventGo**.
+
+---
+
+## **Repositorio Backend — eventgo-platform-main**
+
+**Repositorio:**  
+https://github.com/Planificaa/eventgo-platform-main
+
+| Branch                    | Commit ID  | Mensaje del Commit                                        | Fecha       |
+|---------------------------|------------|------------------------------------------------------------|-------------|
+| feature/quote-management  | 7a0818d3   | chore: specify type of date columns for service item       | 01/11/2025  |
+| feature/profile-management| 6b1d27b0   | feat: add @operation annotations to ProfileController      | 03/11/2025  |
+| feature/reviews-management| e0ee6a9f6  | fix: bean creation failure                                 | 06/11/2025  |
+| feature/event-management  | c08586c4   | feat(value-object): add StatusType value object            | 10/11/2025  |
+| feature/develop           | e0ee6a9f6  | fix: bean creation failure                                 | 16/11/2025  |
+
+---
+
+## **Repositorio Frontend — EventGo-Landing-Pague**
+
+**Repositorio:**  
+https://github.com/Planificaa/EventGo-Landing-Pague
+
+| Branch                    | Commit ID  | Mensaje del Commit                                         | Fecha       |
+|---------------------------|------------|-------------------------------------------------------------|-------------|
+| feature/develop           | 0963aedf   | feat(quote): update quote section                           | 01/11/2025  |
+| feature/header            | ccbd9bd8   | feat(header): add call to action for recurrent visitor      | 04/11/2025  |
+| feature/header            | 256f0b9f   | feat(header): update spanish content                        | 06/11/2025  |
+| feature/about-the-product | 2aaac34b   | feat(about-the-product): update bilingual content           | 08/11/2025  |
+| feature/quotes-management | b49a8805   | feat(quote): add organizer id value object                  | 10/11/2025  |
+| feature/functionalities   | acf90db9   | chore: update functionalities layout position               | 12/11/2025  |
+| feature/plans             | 9771385f   | style: enhance plan section styles                          | 13/11/2025  |
+| feature/about-us          | 669bee4d   | style(about-us): improve visuals for about us section       | 15/11/2025  |
+| feature/about-the-team    | b6afb677   | feat(about-the-team): add team section in both languages    | 16/11/2025  |
+| feature/header            | 34b801d0   | chore: adjust order of language switcher buttons            | 16/11/2025  |
+
