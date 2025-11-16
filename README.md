@@ -124,6 +124,13 @@ Finalmente, este gráfico representa la cantidad de commits realizados por cada 
 
 <img src="/img/README/top-commiters.PNG" alt="Commits" width="400" height="300">
 
+
+### Ramificación del proyecto usando GitFlow:
+
+Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
+
+<img src="/img/README/branches2.jpg" alt="Commits" width="400" height="300">
+
 ## Tercer Avance (TB2) ##
 
 ### Reporte de la colaboración del avance proyecto:
@@ -144,11 +151,6 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
 ![git-clones.png](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
 
 
-### Ramificación del proyecto usando GitFlow:
-
-Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
-
-<img src="/img/README/branches2.jpg" alt="Commits" width="400" height="300">
 
 # Student OutCome
 <table border="1" cellspacing="0" cellpadding="6">
