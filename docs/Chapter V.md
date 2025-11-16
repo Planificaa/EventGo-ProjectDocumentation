@@ -924,3 +924,17 @@ En este sprint, se completó el despliegue operativo del backend de EventGo en l
 ![render-deploy](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/we2.PNG?raw=true)
 
 
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Esta sección demuestra la colaboración del equipo en la entrega del sprint actual, incluyendo las métricas de creación del backend.
+
+### Backend
+
+**Pulse**
+
+![pulse-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab.PNG?raw=true)
+
+**Network**
+
+![network-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
+
