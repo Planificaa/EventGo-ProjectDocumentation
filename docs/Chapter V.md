@@ -1,7 +1,9 @@
 # Capítulo 5: Product Implementation, Validation & Deployment #
 
-## _5.1
-. Software Configuration Management_ ##
+#
+# _5.1
+. Software Con
+figuration Management_ ##
 
 Para asegurar la coherencia, seguimiento y excelencia durante todo el desarrollo de EventGo, el equipo ha establecido una serie de criterios y estándares dirigidos al control de configuraciones. En esta sección se detallan los procedimientos implementados para administrar el código fuente, establecer los ambientes de desarrollo y estructurar el proceso de implementación de la aplicación web.
 Dichos lineamientos garantizan la estabilidad de las versiones del software, facilitan la colaboración efectiva entre los miembros del equipo y aseguran que los despliegues sean supervisados y replicables.
@@ -877,7 +879,79 @@ https://github.com/Planificaa/EventGo-Landing-Pague
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 3 se completó la ejecución y validación de la segunda versión funcional del sistema web, junto con la primera implementación operativa del backend de EventGo. A continuación, se adjuntan las capturas correspondientes al funcionamiento del backend en tiempo real.
+Durante el Sprint 3 se completó la ejecución y validación de la segunda versión funcional del front sistema web, junto con la primera implementación operativa del backend de EventGo. A continuación, se adjuntan las capturas correspondientes al funcionamiento en tiempo real.
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+- Vista Anfitrión: 
+![quotes-anfitrion.jpeg](../img/Chapter%20V/quotes-anfitrion.jpeg) 
+
+- Vista Organizador:
+![quote-org.jpeg](../img/Chapter%20V/quote-org.jpeg)
+![quote-orga2.jpeg](../img/Chapter%20V/quote-orga2.jpeg)
+
+**Quote Order Form Component**
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+
+un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones 
+![quote-edit.jpeg](../img/Chapter%20V/quote-edit.jpeg)
+
+
+Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página
+
+**Quote Management**
+
+![img.png](../img/Chapter%20V/img.png)
+
+
+
+**Dashboard Anfitrion**
+![dashboard-anfi.jpeg](../img/Chapter%20V/dashboard-anfi.jpeg)
+
+**Dashboard Organizador**
+![dashboard-orga.jpeg](../img/Chapter%20V/dashboard-orga.jpeg)
+
+
+**Event Management**
+
+Este es un componente que permitirá al organizador ver sus eventos creados, así como ver un resumen del evento.
+
+![list-social-events.jpeg](../img/Chapter%20V/list-social-events.jpeg)
+
+Así mismo podra ver los eventos que se crean a partir de las cotizaciones aceptadas
+![approved-events-from-quotes.jpeg](../img/Chapter%20V/approved-events-from-quotes.jpeg)
+
+**Create Event Component**
+
+Este es un componente que permitirá al organizador crear un nuevo evento, definiendo el nombre del evento, la fecha, la ubicación y una breve descripción del evento.
+
+![create-new-event.jpeg](../img/Chapter%20V/create-new-event.jpeg)
+
+![edit-event.jpeg](../img/Chapter%20V/edit-event.jpeg) 
+
+**Search events**
+![searchForTitle.jpeg](../img/Chapter%20V/searchForTitle.jpeg)
+
+![searchForLocation-reves.jpeg](../img/Chapter%20V/searchForLocation-reves.jpeg)
+
+**Profile Management**
+
+Este es un componente que permitirá al organizador ver su perfil, así como ver las reseñas y calificaciones que tiene el organizador.
+
+![perfil-orga.jpeg](../img/Chapter%20V/perfil-orga.jpeg)
+
+**Direct Communication**
+
+Este es un componente que permitirá al organizador ver sus mensajes, así como enviar y recibir mensajes.
+
+![direct-communication.png](../img/Chapter%20V/direct-communication.png)
+
+
 
 **Backend – Evidencias de Ejecución**
 
