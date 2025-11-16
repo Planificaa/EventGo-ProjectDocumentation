@@ -124,6 +124,26 @@ Finalmente, este gráfico representa la cantidad de commits realizados por cada 
 
 <img src="/img/README/top-commiters.PNG" alt="Commits" width="400" height="300">
 
+## Tercer Avance (TB2) ##
+
+### Reporte de la colaboración del avance proyecto:
+
+Respecto de este tercer avance del proyecto, se implementaron correcciones y actualizaciones de las secciones que no fueron corregidas correctamente en el avance previo. A continuación, se realiza un resumen de las actividades respecto del informe realizadas en este avance: 
+- El integrante Didier Sebastian Meza Solórzano implementó implemento la documentacion del sprint 3. Además, completó los gráficos sobre estos últimos datos.
+- La integrante July Zelmira Paico Calderón implementó correcciones en el frontend y mejora.
+- El integrante Deybbi Anderson Crisanto Calle impkemento el backend.
+
+Finalmente, este gráfico representa la cantidad de commits realizados por cada miembro del equipo en el repositorio del proyecto. Cada barra representa a un miembro del equipo y la altura de la barra indica el número total de commits realizados por esa persona.
+
+<img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab.PNG?raw=true" alt="Commits" width="300" height="300">
+
+### Ramificación del proyecto usando GitFlow:
+
+Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![git-clones.png](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
+
+
 ### Ramificación del proyecto usando GitFlow:
 
 Este gráfico ofrece una visualización de las veces que se ha clonado nuestro repositorio, junto con las fechas correspondientes a cada evento. También muestran datos sobre el número de visitas que ha recibido el repositorio de nuestro equipo a lo largo del tiempo.
