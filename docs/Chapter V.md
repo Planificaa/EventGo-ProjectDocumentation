@@ -1032,3 +1032,13 @@ Durante el este Sprint nuestro enfoque es desarrollar la versión final de los t
 | **Sprint 4 Goal** | En este último sprint, nuestro enfoque es finalizar e integrar todos los componentes clave de la aplicación. Esto incluye presentar información clara sobre el proyecto y el equipo detrás del desarrollo, y optimizar el sitio web para convertir a los visitantes en usuarios activos. Se implementarán funcionalidades esenciales como la búsqueda de organizadores de eventos, suscripciones mensuales, notificaciones personalizadas, autenticación de usuarios y una API robusta para gestionar eventos, tareas y cotizaciones. Estas características están diseñadas para ofrecer una experiencia completa y escalable, pensada para atraer y retener distintos tipos de usuarios, ya sean recurrentes, racionales o emocionales. El éxito de este sprint se validará cuando los usuarios puedan interactuar plenamente con el sistema: desde buscar organizadores y suscribirse a un plan, hasta recibir alertas y que los organizadores puedan administrar eficientemente sus actividades mediante la API implementada. |
 | **Sprint 4 Velocity** | Velocidad de 20 - Cuarto Sprint |
 | **Sum of Story Points** | Sprint 4 - 22 Story Points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+|             Team Member                    |  GitHub Username  | ReviewManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
+|:------------------------------------------:|:-----------------:|:----------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
+|   Crisanto Calle, Deybbi Anderson          |       Dacc03      |        L         |         L         |        C        |        C         |            C            |
+|  Jesús Fernando Paucar Zenteno             |   devFernando22   |        L         |         C         |        L        |        C         |            C            |
+|    Paico Calderon, July Zelmira            |       JulyP       |        C         |         C         |        C        |        L         |            C            |
+|  Didier Sebastian Meza Solòrzano           |    DidierMeza     |        C         |         C         |        C        |        C         |            L            |
+
