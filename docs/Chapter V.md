@@ -1012,3 +1012,23 @@ Esta sección demuestra la colaboración del equipo en la entrega del sprint act
 
 ![network-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
 
+### 5.2.4. Sprint 4
+
+Durante el este Sprint nuestro enfoque es desarrollar la versión final de los tres productos de nuestro proyecto: la landing page, el FrontEnd y el BackEnd. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación. Además, se implementarán mejoras en la experiencia del usuario y se realizarán pruebas exhaustivas para garantizar un producto de alta calidad.
+
+#### 5.2.4.1. Sprint Planning 4.
+
+| Sprint # | Sprint 4 |
+|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |  |
+| **Date** | 01/12/2025 |
+| **Time** | 11:40 horas |
+| **Location** | Reunión presencial - Aula UPC VH107 |
+| **Prepared By** | Didier Sebastian Meza Solòrzano |
+| **Attendees** | - Didier Sebastian Meza Solòrzano  <br> - Deybbi Anderson Crisanto Calle  <br> - Jesús Fernando Paucar Zenteno  <br> - July Zelmira Paico Calderon |
+| **Sprint 3 Review Summary** | Se completó la documentación y el diseño de la estructura de la Landing Page y el Frontend de la aplicación web, definiendo las secciones principales e identificando los componentes esenciales para mostrar el funcionamiento de la plataforma. Además, se determinaron las tecnologías fundamentales para el proyecto: Vue en el frontend, y C# en el backend, lo que garantiza una arquitectura robusta y escalable para la gestión de la aplicación. |
+| **Sprint 3 Retrospective Summary** | En el Sprint 3, se completó la integración inicial entre el frontend y backend, permitiendo el funcionamiento básico de características como generación de cotizaciones. También se hizo hincapié en la importancia de seguir con los estándares de código para garantizar la escalabilidad del proyecto. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 4 Goal** | En este último sprint, nuestro enfoque es finalizar e integrar todos los componentes clave de la aplicación. Esto incluye presentar información clara sobre el proyecto y el equipo detrás del desarrollo, y optimizar el sitio web para convertir a los visitantes en usuarios activos. Se implementarán funcionalidades esenciales como la búsqueda de organizadores de eventos, suscripciones mensuales, notificaciones personalizadas, autenticación de usuarios y una API robusta para gestionar eventos, tareas y cotizaciones. Estas características están diseñadas para ofrecer una experiencia completa y escalable, pensada para atraer y retener distintos tipos de usuarios, ya sean recurrentes, racionales o emocionales. El éxito de este sprint se validará cuando los usuarios puedan interactuar plenamente con el sistema: desde buscar organizadores y suscribirse a un plan, hasta recibir alertas y que los organizadores puedan administrar eficientemente sus actividades mediante la API implementada. |
+| **Sprint 4 Velocity** | Velocidad de 20 - Cuarto Sprint |
+| **Sum of Story Points** | Sprint 4 - 22 Story Points |
