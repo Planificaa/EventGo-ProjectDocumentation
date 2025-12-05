@@ -31,11 +31,6 @@
     <td>u202319950</td>
   </tr>
   <tr>
-    <td>Bryan Norberto Hermoza Paredes</td>
-    <td>u202313453</td>
-  </tr>
- 
-  <tr>
     <td>Jesús Fernando Paucar Zenteno</td>
     <td>u202316687</td>
   </tr>
