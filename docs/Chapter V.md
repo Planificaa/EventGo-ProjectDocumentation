@@ -1412,3 +1412,10 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product
+
+En esta sección, se adjunta el enlace al video sobre el producto de software desarrollado. En este video, se detallan funcionalidades principales y beneficios que ofrece la aplicacion a los usuarios finales que usaran la aplicacion web para sus negocios.
+
+Enlace al video acerca del producto: [https://tinyurl.com/4xu4a6pe ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319950_upc_edu_pe/IQAYE9dgCDEfTo2EZ5doFo7JATdk_jqCHxUjSRLAz3ucFnQ?e=08tl8w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<p align="center">
+  <img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/main/img/Chapter%20V/Captura.PNG?raw=true">
+</p>
