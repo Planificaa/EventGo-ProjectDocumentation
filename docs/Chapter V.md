@@ -1,9 +1,7 @@
 # Capítulo 5: Product Implementation, Validation & Deployment #
 
 #
-# _5.1
-. Software Con
-figuration Management_ ##
+# _5.1. Software Configuration Management_ ##
 
 Para asegurar la coherencia, seguimiento y excelencia durante todo el desarrollo de EventGo, el equipo ha establecido una serie de criterios y estándares dirigidos al control de configuraciones. En esta sección se detallan los procedimientos implementados para administrar el código fuente, establecer los ambientes de desarrollo y estructurar el proceso de implementación de la aplicación web.
 Dichos lineamientos garantizan la estabilidad de las versiones del software, facilitan la colaboración efectiva entre los miembros del equipo y aseguran que los despliegues sean supervisados y replicables.
