@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div >
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
