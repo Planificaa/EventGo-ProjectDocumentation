@@ -155,7 +155,7 @@ Este gráfico ofrece una visualización de las veces que se ha clonado nuestro r
 ### Reporte de la colaboración del avance proyecto:
 
 Respecto de este tercer avance del proyecto, se implementaron correcciones y actualizaciones de las secciones que no fueron corregidas correctamente en el avance previo. A continuación, se realiza un resumen de las actividades respecto del informe realizadas en este avance: 
-- El integrante Didier Sebastian Meza Solórzano implementó implemento la documentacion del sprint 3. Además, completó los gráficos sobre estos últimos datos.
+- El integrante Didier Sebastian Meza Solórzano implementó implemento la documentacion del sprint 4. Además, completó los gráficos sobre estos últimos datos.
 - La integrante July Zelmira Paico Calderón implementó correcciones en el frontend y mejora.
 - El integrante Deybbi Anderson Crisanto Calle impkemento el backend.
 - El integrante Paucar Zaenteno Jesus Fernando implemento la interfaz de TaskManagement.
