@@ -1,7 +1,9 @@
 # Capítulo 5: Product Implementation, Validation & Deployment #
 
-## _5.1
-. Software Configuration Management_ ##
+#
+# _5.1
+. Software Con
+figuration Management_ ##
 
 Para asegurar la coherencia, seguimiento y excelencia durante todo el desarrollo de EventGo, el equipo ha establecido una serie de criterios y estándares dirigidos al control de configuraciones. En esta sección se detallan los procedimientos implementados para administrar el código fuente, establecer los ambientes de desarrollo y estructurar el proceso de implementación de la aplicación web.
 Dichos lineamientos garantizan la estabilidad de las versiones del software, facilitan la colaboración efectiva entre los miembros del equipo y aseguran que los despliegues sean supervisados y replicables.
@@ -877,7 +879,79 @@ https://github.com/Planificaa/EventGo-Landing-Pague
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 3 se completó la ejecución y validación de la segunda versión funcional del sistema web, junto con la primera implementación operativa del backend de EventGo. A continuación, se adjuntan las capturas correspondientes al funcionamiento del backend en tiempo real.
+Durante el Sprint 3 se completó la ejecución y validación de la segunda versión funcional del front sistema web, junto con la primera implementación operativa del backend de EventGo. A continuación, se adjuntan las capturas correspondientes al funcionamiento en tiempo real.
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+- Vista Anfitrión: 
+![quotes-anfitrion.jpeg](../img/Chapter%20V/quotes-anfitrion.jpeg) 
+
+- Vista Organizador:
+![quote-org.jpeg](../img/Chapter%20V/quote-org.jpeg)
+![quote-orga2.jpeg](../img/Chapter%20V/quote-orga2.jpeg)
+
+**Quote Order Form Component**
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+
+un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones 
+![quote-edit.jpeg](../img/Chapter%20V/quote-edit.jpeg)
+
+
+Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página
+
+**Quote Management**
+
+![img.png](../img/Chapter%20V/img.png)
+
+
+
+**Dashboard Anfitrion**
+![dashboard-anfi.jpeg](../img/Chapter%20V/dashboard-anfi.jpeg)
+
+**Dashboard Organizador**
+![dashboard-orga.jpeg](../img/Chapter%20V/dashboard-orga.jpeg)
+
+
+**Event Management**
+
+Este es un componente que permitirá al organizador ver sus eventos creados, así como ver un resumen del evento.
+
+![list-social-events.jpeg](../img/Chapter%20V/list-social-events.jpeg)
+
+Así mismo podra ver los eventos que se crean a partir de las cotizaciones aceptadas
+![approved-events-from-quotes.jpeg](../img/Chapter%20V/approved-events-from-quotes.jpeg)
+
+**Create Event Component**
+
+Este es un componente que permitirá al organizador crear un nuevo evento, definiendo el nombre del evento, la fecha, la ubicación y una breve descripción del evento.
+
+![create-new-event.jpeg](../img/Chapter%20V/create-new-event.jpeg)
+
+![edit-event.jpeg](../img/Chapter%20V/edit-event.jpeg) 
+
+**Search events**
+![searchForTitle.jpeg](../img/Chapter%20V/searchForTitle.jpeg)
+
+![searchForLocation-reves.jpeg](../img/Chapter%20V/searchForLocation-reves.jpeg)
+
+**Profile Management**
+
+Este es un componente que permitirá al organizador ver su perfil, así como ver las reseñas y calificaciones que tiene el organizador.
+
+![perfil-orga.jpeg](../img/Chapter%20V/perfil-orga.jpeg)
+
+**Direct Communication**
+
+Este es un componente que permitirá al organizador ver sus mensajes, así como enviar y recibir mensajes.
+
+![direct-communication.png](../img/Chapter%20V/direct-communication.png)
+
+
 
 **Backend – Evidencias de Ejecución**
 
@@ -938,3 +1012,403 @@ Esta sección demuestra la colaboración del equipo en la entrega del sprint act
 
 ![network-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
 
+### 5.2.4. Sprint 4
+
+Durante el este Sprint nuestro enfoque es desarrollar la versión final de los tres productos de nuestro proyecto: la landing page, el FrontEnd y el BackEnd. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación. Además, se implementarán mejoras en la experiencia del usuario y se realizarán pruebas exhaustivas para garantizar un producto de alta calidad.
+
+#### 5.2.4.1. Sprint Planning 4.
+
+| Sprint # | Sprint 4 |
+|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |  |
+| **Date** | 01/12/2025 |
+| **Time** | 11:40 horas |
+| **Location** | Reunión presencial - Aula UPC VH107 |
+| **Prepared By** | Didier Sebastian Meza Solòrzano |
+| **Attendees** | - Didier Sebastian Meza Solòrzano  <br> - Deybbi Anderson Crisanto Calle  <br> - Jesús Fernando Paucar Zenteno  <br> - July Zelmira Paico Calderon |
+| **Sprint 3 Review Summary** | Se completó la documentación y el diseño de la estructura de la Landing Page y el Frontend de la aplicación web, definiendo las secciones principales e identificando los componentes esenciales para mostrar el funcionamiento de la plataforma. Además, se determinaron las tecnologías fundamentales para el proyecto: Vue en el frontend, y C# en el backend, lo que garantiza una arquitectura robusta y escalable para la gestión de la aplicación. |
+| **Sprint 3 Retrospective Summary** | En el Sprint 3, se completó la integración inicial entre el frontend y backend, permitiendo el funcionamiento básico de características como generación de cotizaciones. También se hizo hincapié en la importancia de seguir con los estándares de código para garantizar la escalabilidad del proyecto. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 4 Goal** | En este último sprint, nuestro enfoque es finalizar e integrar todos los componentes clave de la aplicación. Esto incluye presentar información clara sobre el proyecto y el equipo detrás del desarrollo, y optimizar el sitio web para convertir a los visitantes en usuarios activos. Se implementarán funcionalidades esenciales como la búsqueda de organizadores de eventos, suscripciones mensuales, notificaciones personalizadas, autenticación de usuarios y una API robusta para gestionar eventos, tareas y cotizaciones. Estas características están diseñadas para ofrecer una experiencia completa y escalable, pensada para atraer y retener distintos tipos de usuarios, ya sean recurrentes, racionales o emocionales. El éxito de este sprint se validará cuando los usuarios puedan interactuar plenamente con el sistema: desde buscar organizadores y suscribirse a un plan, hasta recibir alertas y que los organizadores puedan administrar eficientemente sus actividades mediante la API implementada. |
+| **Sprint 4 Velocity** | Velocidad de 20 - Cuarto Sprint |
+| **Sum of Story Points** | Sprint 4 - 22 Story Points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+|             Team Member                    |  GitHub Username  | ReviewManagement | ProfileManagement | QuoteManagement | Event Management | Subscription Management |
+|:------------------------------------------:|:-----------------:|:----------------:|:-----------------:|:---------------:|:----------------:|:-----------------------:|
+|   Crisanto Calle, Deybbi Anderson          |       Dacc03      |        L         |         L         |        C        |        C         |            C            |
+|  Jesús Fernando Paucar Zenteno             |   devFernando22   |        L         |         C         |        L        |        C         |            C            |
+|    Paico Calderon, July Zelmira            |       JulyP       |        C         |         C         |        C        |        L         |            C            |
+|  Didier Sebastian Meza Solòrzano           |    DidierMeza     |        C         |         C         |        C        |        C         |            L            |
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+Para el sprint 4 usamos la herramienta Trello para organizar las tareas del equipo.
+
+![sprint-backlog 4](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/Trello4.PNG?raw=true)
+
+Enlace: https://trello.com/b/W2ZdKqqU/eventgo-sprint-backlog-4
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td align="center" colspan="7"><strong>Sprint 4</strong></td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>User Story</strong></td>
+    <td align="center" colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status</strong></td>
+  </tr>
+
+  <tr>
+    <td align="center">US01</td>
+    <td align="center">Navegación sencilla</td>
+    <td align="center">TA01</td>
+    <td align="center">Implementar el lenguaje por defecto</td>
+    <td align="center">Quiero que el landing page esté en inglés por defecto</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US05</td>
+    <td align="center">Llamada a la acción</td>
+    <td align="center">TA02</td>
+    <td align="center">Create call to action</td>
+    <td align="center">Quiero que el landing page tenga las llamadas a la acción para los tres tipos de visitantes</td>
+    <td align="center">2</td>
+    <td align="center">Jesús Fernando Paucar Zenteno</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US06</td>
+    <td align="center">Visualización de tutorial de la aplicación</td>
+    <td align="center">TA03</td>
+    <td align="center">Add about the product video</td>
+    <td align="center">Quiero insertar un video sobre el producto en nuestra web de negocio.</td>
+    <td align="center">1</td>
+    <td align="center">Jesús Fernando Paucar Zenteno</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US10</td>
+    <td align="center">Diseño responsive</td>
+    <td align="center">TA04</td>
+    <td align="center">Configure correct loading</td>
+    <td align="center">Quiero que el sitio web de negocio se cargue correctamente.</td>
+    <td align="center">1</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center">US19</td>
+    <td rowspan="2" align="center">Gestión de presupuesto del evento</td>
+    <td align="center">TA05</td>
+    <td align="center">Create an update operation for quote</td>
+    <td align="center">Quiero crear una operación para actualizar cotizaciones.</td>
+    <td align="center">2</td>
+    <td align="center">Jesús Fernando Paucar Zenteno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">TA06</td>
+    <td align="center">Create service item for quote management</td>
+    <td align="center">Quiero crear un service item para el manejo de las cotizaciones.</td>
+    <td align="center">4</td>
+    <td align="center">Jesús Fernando Paucar Zenteno</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US21</td>
+    <td align="center">Vista de cronograma del evento</td>
+    <td align="center">TA08</td>
+    <td align="center">Update scheduler for events</td>
+    <td align="center">Quiero actualizar el calendario de los eventos.</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US27</td>
+    <td align="center">Editar reseña publicada</td>
+    <td align="center">TA07</td>
+    <td align="center">Add update operation for reviews</td>
+    <td align="center">Quiero implementar una operación para actualizar las reseñas publicadas.</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center">US29</td>
+    <td align="center">Visualización de los eventos</td>
+    <td align="center">TA09</td>
+    <td align="center">Add update operation for social events</td>
+    <td align="center">Quiero implementar una operación para actualizar los registros de eventos sociales.</td>
+    <td align="center">2</td>
+    <td align="center">Paico Calderon, July Zelmira</td>
+    <td align="center">In Progress</td>
+  </tr>
+
+  <tr>
+    <td align="center">US28</td>
+    <td align="center">Filtro de evento social</td>
+    <td align="center">TA10</td>
+    <td align="center">Add queries for more event filters</td>
+    <td align="center">Quiero implementar más opciones de filtros para los eventos.</td>
+    <td align="center">1</td>
+    <td align="center">Paico Calderon, July Zelmira</td>
+    <td align="center">In Progress</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center">US31</td>
+    <td rowspan="3" align="center">Visualizar perfiles de organizadores</td>
+    <td align="center">TA11</td>
+    <td align="center">Create update operation for profile</td>
+    <td align="center">Quiero implementar una operación para actualizar los perfiles.</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">TA12</td>
+    <td align="center">Create a service catalog for profiles</td>
+    <td align="center">Quiero crear un catálogo para los perfiles.</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">TA13</td>
+    <td align="center">Create album for profile</td>
+    <td align="center">Quiero crear un álbum para los perfiles.</td>
+    <td align="center">2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td align="center">TA14</td>
+    <td align="center">Deploy products</td>
+    <td align="center">Quiero desplegar mis productos a un dominio público.</td>
+    <td align="center">2</td>
+    <td align="center">Jesús Fernando Paucar Zenteno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">TA15</td>
+    <td align="center">Implement security</td>
+    <td align="center">Quiero agregar autenticación para la plataforma web.</td>
+    <td align="center">3</td>
+    <td align="center">Didier Sebastian Meza Solòrzano</td>
+    <td align="center">In Progress</td>
+  </tr>
+</table>
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+A continuación, se mostrarán los commits últimos registrados en el repositorio correspondiente al backend para el desarrollo del sprint 4.
+
+<table>
+  <tr>
+    <td align ="center"><strong>Repository</strong></td>
+    <td align ="center"><strong>Branch</strong></td>
+    <td align ="center"><strong>Commit ID</strong></td>
+    <td align ="center"><strong>Commit message</strong></td>
+    <td align ="center"><strong>Commit Message body</strong></td>
+    <td align ="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/Planificaa/eventgo-platform-main.git </td>
+    <td align="center">feature/quote-management</td>
+    <td align="center">e851915f3f54ed55c7cdb521fd3eaf268ce1f0d7</td>
+    <td align="center">feat(planning): add acl planning external profile service</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profile-management</td>
+    <td align="center">c699202593a4593bb96af9d787690243d76da12f</td>
+    <td align="center">fix(pom): correct spelling of 'platform' in artifactId and name.</td>
+    <td align="center">---</td>
+    <td align="center">29/11/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/reviews-management</td>
+    <td align="center">e0ee6a9f679a46df2f638830f10a0de953170703</td>
+    <td align="center">fix: bean creation failure.</td>
+    <td align="center">---</td>
+    <td align="center">28/11/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/event-management</td>
+    <td align="center">d3212ba217da342b3b4d99e6ad1c9e3291e80ad8</td>
+    <td align="center">feat(planning): add documentation for planning bounded context and social event management.</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/develop</td>
+    <td align="center">4166cc97eec4857b4008e1773bb55dd5cbcb7ae5</td>
+    <td align="center">feat(iam): check properties.</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/iam</td>
+    <td align="center">d78e4e4d873057d88c8000bc2b7a0c2ffdc12385</td>
+    <td align="center">feat(iam): update application-prod.properties</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align ="center"><strong>Repository</strong></td>
+    <td align ="center"><strong>Branch</strong></td>
+    <td align ="center"><strong>Commit ID</strong></td>
+    <td align ="center"><strong>Commit message</strong></td>
+    <td align ="center"><strong>Commit Message body</strong></td>
+    <td align ="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/Planificaa/eventgo-frontend.git </td>
+    <td align="center">feature/develop</td>
+    <td align="center">051b1907d086f53f1e745007186623da9bc1ab61</td>
+    <td align="center">Merge branch 'feature/event-management' into develop</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/event-management</td>
+    <td align="center">35a6eac8dad523388984eadc38fd2bb03eb7a521</td>
+    <td align="center">refactor(calendar): refactor calendar view path and integrate FullCalendar.</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/iam</td>
+    <td align="center">3d8198364a60a020a3f2f35af491242b26a0c4a5</td>
+    <td align="center">feat(iam): add authentication section in navigation bar component</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profile-management</td>
+    <td align="center">916bc3e3171e128c64c16edd415086d6629c5555</td>
+    <td align="center">feat(base-service): add unit tests for BaseService with TestService implementation.</td>
+    <td align="center">---</td>
+    <td align="center">28/11/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quotes-management</td>
+    <td align="center">62258159bd17a3ab0aca2b30e651cad5cd511247</td>
+    <td align="center">feat(service-item): add update service item functionality</td>
+    <td align="center">---</td>
+    <td align="center">03/12/2025</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align ="center"><strong>Repository</strong></td>
+    <td align ="center"><strong>Branch</strong></td>
+    <td align ="center"><strong>Commit ID</strong></td>
+    <td align ="center"><strong>Commit message</strong></td>
+    <td align ="center"><strong>Commit Message body</strong></td>
+    <td align ="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/Planificaa/EventGo-Landing-Pague.git </td>
+    <td align="center">develop</td>
+    <td align="center">d655cbc4b5c8a03a035c167cc050d7c915c6634a</td>
+    <td align="center">refactor(paths): refactor assets paths in html.</td>
+    <td align="center">---</td>
+    <td align="center">02/12/2025</td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/Planificaa/EventGo-Landing-Pague.git </td>
+    <td align="center">main</td>
+    <td align="center">a27215605323f59a313455f164e3aa2bb2af7f8c</td>
+    <td align="center">refactor(assets): refactor developers profiles.</td>
+    <td align="center">---</td>
+    <td align="center">02/12/2025</td>
+  </tr>
+</table>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+A continuación se presentan las preguntas de validación utilizadas para las entrevistas con usuarios. El objetivo es evaluar tanto la landing page como la aplicación web de EventGo para asegurar que la experiencia de navegación sea clara, coherente y útil para quienes organizan y gestionan eventos.
+
+
+#### Preguntas sobre la Landing Page
+
+- ¿Al ingresar a la landing page, entiendes rápidamente qué es Eventify y a quién está dirigido?
+- ¿La información sobre las funcionalidades de la plataforma te resulta clara y atractiva?
+- ¿El diseño visual (colores, imágenes, tipografías) te transmite confianza y profesionalismo?
+- ¿Consideras que la estructura de la landing page está bien organizada y fácil de navegar?
+- ¿Te motivaría registrarte o saber más sobre Eventify luego de explorar la landing page?
+- ¿Hay algo que te gustaría ver en la landing que actualmente no está presente?
+
+#### Preguntas sobre la Aplicación Web
+
+- ¿Nota coherencia visual y funcional entre las distintas secciones (perfil, eventos, cotizaciones, etc.)?
+- ¿El proceso de creación o edición de sus albums incluidos en su perfil es claro y sencillo?
+- ¿Le resulta fácil acceder y gestionar las cotizaciones dentro de la plataforma?
+- ¿Cómo evalúa la sección de eventos? ¿Le permite organizar y visualizar la información de manera efectiva?
+- ¿La vista de calendario cubre sus expectativas para programar y revisar actividades importantes?
+- ¿El tablero estilo Kanban para tareas le ayuda a organizar su flujo de trabajo? ¿Es intuitivo?
+- ¿Le resulta fácil identificar el estado de cada tarea (pendiente, en progreso, finalizada)?
+- ¿Hay algo que le haya confundido o que no funcionó como esperabas?
+- ¿Qué mejoraría de la experiencia general al usar la aplicación web?
+
+
+
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product
