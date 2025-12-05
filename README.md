@@ -82,6 +82,17 @@
 | 2.0     | 20-09-2025 | July Paico  | Se añadio la sección de Software Configuration Management en el capítulo 5.                   |
 | 2.0     | 20-09-2025 | July Paico  | Se añadio la sección de Sprint 2 en el capítulo 5.                                            |
 | 2.0     | 08-10-2025 | July Paico  | Se añadio la sección de Sprint planing 2 en el capítulo 5.                                    |
+| 3.0     | 09-06-2025  | Deybbi  Crisanto  | Se corrigió la sección de report collaboration insights.                                               |
+| 3.0     | 09-06-2025  | Deybbi  Crisanto  | Se corrigió la sección de registro de entrevistas.                                                     |
+| 3.0     | 10-06-2025  | Deybbi  Crisanto  | Se corrigió la sección de análisis de entrevistas.                                                     |
+| 3.0     | 10-06-2025  | Didier Meza  | Se realizó el sprint backlog 3.                                                                        |
+| 3.0     | 13-06-2025  | Didier Meza  | Se corrigió la sección de business outcomes.                                                           |
+| 3.0     | 19-06-2025  | Didier Meza  | Se añadió la sección de registro de entrevistas.                                                       |
+| 3.0     | 19-06-2025  | Didier Meza  | Se añadió la sección de validación según heurísticas.                                                  |
+| 3.0     | 20-06-2025  | Didier Meza  | Se añadió la sección de validación según heurísticas.                                                  |
+| 3.0     | 17-06-2025  | July Zelmira Paico Calderón | Se corrigieron los diagramas de componentes en la aplicación Front End y Back End.                    |
+| 4.0     | 30-11-2025  | July Zelmira Paico Calderón | Se corrigieron los links y enumeración de las páginas con las figuras.                                |
+
 # Project Report Collaboration Insights
 
 Repositorio del **Project Report**: https://github.com/Planificaa/EventGo-ProjectDocumentation.git
