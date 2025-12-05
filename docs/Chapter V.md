@@ -1459,6 +1459,45 @@ A continuación se muestran capturas de la estructura de rutas y endpoints del b
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo AngelDevs.
+
+![commits-landing.png](../img/Chapter%20V/commits-landing.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![contributors-landing.png](../img/Chapter%20V/contributors-landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio de la Landing Page.
+
+![network-part1-landing.png](../img/Chapter%20V/network-part1-landing.png)
+![network-part2-landing.png](../img/Chapter%20V/network-part2-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
+La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Vue 3, PrimeVue, PrimeFlex, Primeicons, entre otros.
+Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
+
+![collaboration-insights.png](../img/Chapter%20V/collaboration-insights.png)
+
+En esta imagen se muestran el total de commits que hizo cada integrante durante el desarrollo del Frontend
+
+![Contributors.png](../img/Chapter%20V/Contributors.png)
+
+En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
+
+![gitflow-feature-branch.png](../img/Chapter%20V/gitflow-feature-branch.png)
+
+![gitflow-feature-branch-2.png](../img/Chapter%20V/gitflow-feature-branch-2.png)
+
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+
+Esta sección demuestra la colaboración del equipo en la entrega del sprint actual, incluyendo las métricas de creación del backend.
+
+### Backend
+
+**Pulse**
+
+![pulse-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab.PNG?raw=true)
+
+**Network**
+
+![network-insights](https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/develop/img/Chapter%20V/colab2.PNG?raw=true)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
