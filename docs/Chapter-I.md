@@ -4,7 +4,7 @@
 En esta sección se encuentra la descripción de nuestra Startup
 
 ### 1.1.1. Descripción de la Startup ###
-<div style="text-align: justify">
+<div >
 
 Planificaa es una startup tecnológica dedicada a crear soluciones digitales innovadoras que impulsen la modernización de la industria de eventos a través de su aplicación web EventGo. Esta plataforma conecta de manera ágil a organizadores de eventos, ya sean profesionales o independientes, con clientes que requieren sus servicios para bodas, cumpleaños, celebraciones y más. EventGo simplifica la búsqueda, contratación y coordinación entre ambas partes, ofreciendo a los clientes herramientas para encontrar al organizador ideal según sus necesidades, y brindando a los profesionales funciones de gestión de eventos, comunicación directa, cotizaciones, contratos, calendario y notas personalizadas. Con una cultura enfocada en metodologías ágiles y en la experiencia del usuario, Planificaa busca expandirse a nivel regional y consolidarse como referente en el desarrollo de productos tecnológicos con propósito.
 
@@ -43,7 +43,7 @@ Además, Planificaa apuesta por la innovación y las metodologías ágiles, con 
 
 ### 1.2.1. Antecedentes y problemática ###
 ### Antecedentes
-<div style="text-align: justify">
+<div>
 
 En la industria de la organización de eventos, una gestión inadecuada puede comprometer gravemente la reputación de los organizadores. Los errores más frecuentes suelen estar relacionados con la planificación, la logística y la comunicación, elementos que impactan directamente en la experiencia de los asistentes y en el éxito del evento.
 
@@ -57,7 +57,7 @@ Estos ejemplos demuestran que incluso en conciertos de gran escala, con artistas
 
 </div>
 
-<div style="text-align: justify">
+<div>
 
 <br>
 
@@ -108,7 +108,7 @@ Las consecuencias pueden ser económicamente significativas para ambas partes. P
 El enfoque Lean UX se basa en validar de manera rápida y continua las soluciones que se proponen para los problemas detectados en un proyecto. Se enfoca principalmente en las personas que van a interactuar con el producto, priorizando sus necesidades reales. En este caso, tras identificar la problemática central, se aplicó esta metodología para definir áreas clave que sirvan de guía en el diseño del producto final.
 
 ### 1.2.2.1. Lean UX Problem Statement ###
-<div style="text-align: justify">
+<div>
 
 **Problem Statement - Organizadores de Eventos**
 
