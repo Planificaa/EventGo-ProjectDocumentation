@@ -1413,7 +1413,7 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 |Entrevista|Registro|
 |---|---|
 |<p align="center"><img src="https://raw.githubusercontent.com/StockVin/WineInventory-ProjectDocumentation/738974c5cf84c8d968504cc67873edcb3eb0f/img/Chapter%20V/yadhir_interview.jpg" width="150"/></p>|**Distrito:** Santiago de Surco <br>**Entrevistado:** Yadhir Antonio|
-|https://tinyurl.com/2s328hex|**Entrevistador:** Didier Sebastián Meza Solórzano|
+|https://tinyurl.com/2s32hex|**Entrevistador:** Didier Sebastián Meza Solórzano|
 |Timing: 0:00–9:54|**Resumen:** La entrevista fue realizada a **Yadhir Antonio**, de 24 años, con el objetivo de validar funciones principales de **EventGo**, la plataforma para gestión y venta de entradas. Durante la evaluación revisó la landing page, navegabilidad, claridad del contenido y módulos clave como creación de eventos, compra de entradas, planes para organizadores, panel de control y alertas. Yadhir señaló que la estructura es clara y fácil de entender, destacando la sección de planes y la presentación visual de los eventos. Sugirió aumentar el tamaño de la fuente en móviles y que el selector de idioma esté disponible en todas las pantallas. Mencionó también que la interfaz del dashboard es intuitiva y que las alertas por aforo y ventas son útiles para tomar decisiones rápidas. En la sección de perfil, consideró positivo poder editar datos y conectar redes sociales. Finalmente, indicó que el módulo de reportes es fácil de usar y está bien organizado. **Satisfacción del flujo:** 4.5/5|
 
 ---
@@ -1423,7 +1423,7 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 |Entrevista|Registro|
 |---|---|
 |<p align="center"><img src="https://raw.githubusercontent.com/StockVin/WineInventory-ProjectDocumentation/738974c5cf84c8d968acf504cc67873edb0f/img/Chapter%20V/Milton_interview.jpg" width="150"/></p>|**Distrito:** Villa el Salvador <br>**Entrevistado:** Piero Morales|
-|https://tinyurl.com/mr3xkn78|**Entrevistador:** Didier Sebastián Meza Solórzano|
+|https://tinyurl.com/mrxkn78|**Entrevistador:** Didier Sebastián Meza Solórzano|
 |Timing: 0:00–14:41|**Resumen:** La entrevista se realizó a **Piero Morales**, de 22 años, quien participó en la validación del flujo principal de **EventGo**. Durante la prueba creó su cuenta, seleccionó su rol como organizador y accedió al dashboard donde visualizó métricas de ventas, asistentes confirmados y eventos programados. Exploró el módulo de creación de eventos, configurando fecha, lugar, aforo, tipos de entradas y precios. Luego revisó el flujo de compra desde el punto de vista del usuario, indicando que el proceso es claro y rápido. Piero también generó un reporte de ventas por evento, encontrándolo ordenado y fácil de interpretar. Destacó la importancia de las **alertas de aforo y ventas bajas**, así como la posibilidad de duplicar un evento para ahorrar tiempo. Comentó que el diseño es intuitivo y que con más uso podría familiarizarse aún más con todas las funciones. **Satisfacción del flujo:** 4.8/5|
 
 ---
@@ -1433,7 +1433,7 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 |Entrevista|Registro|
 |---|---|
 |<p align="center"><img src="https://raw.githubusercontent.com/StockVin/WineInventory-ProjectDocumentation8974c5cf84c8d968acf504cc67873edcb3eb0f/img/Chapter%20V/diego_interview.jpg" width="150"/></p>|**Distrito:** Villa el Salvador <br>**Entrevistado:** Diego Vilca|
-|https://tinyurl.com/2kv5ppmx|**Entrevistador:** Didier Sebastián Meza Solórzano|
+|https://tinyurl.com/2kvpmx|**Entrevistador:** Didier Sebastián Meza Solórzano|
 |Timing: 0:00–11:36|**Resumen:** La entrevista se realizó a **Diego Vilca**, de 20 años, centrada en evaluar la experiencia visual y la navegabilidad de **EventGo**. Comentó que la landing page está bien organizada y que las secciones de próximos eventos, testimonios, preguntas frecuentes y planes resultan claras. Destacó el uso de colores, la distribución de elementos y la navegación mediante la barra lateral. Probó el registro seleccionando rol, editó su perfil y probó el cambio de idioma sin dificultad. En el módulo de eventos visualizó imágenes, precios, disponibilidad y opciones de editar o crear nuevos. Sobre reportes, entendió rápidamente funciones como ventas, cancelaciones y asistencia por evento, mencionando que están bien divididas. Finalmente, valoró las alertas de aforo y recomendó añadir accesos rápidos para gestionar entradas y visualizar ventas en tiempo real. **Satisfacción del flujo:** 4.7/5|
 
 ### 5.3.3. Evaluaciones según heurísticas.
