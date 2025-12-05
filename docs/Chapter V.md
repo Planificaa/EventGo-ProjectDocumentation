@@ -1458,6 +1458,27 @@ A continuación se muestran capturas de la estructura de rutas y endpoints del b
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para el despliegue de los productos finales usamos distintos servicios de la nube.
+
+**Business Website**
+
+Para el sitio web del negocio usamos GitHub Pages para publicar desde el repositorio de GitHub de la organización.
+
+![deploy-landing-page-tf](../assets/chapter-V/deploy-landing-page.png)
+
+**Frontend Application**
+
+Para el frontend usamos el servicio de hosting que ofrece Firebase.
+
+![deploy-frontend-tf](../assets/chapter-V/deploy-frontend.png)
+
+**Backend Application**
+
+Para el backend usamos el servicio de Render, el cual nos permitio asociar nuestro repositorio de eventify-platform con el servicio.
+
+![deploy-backend-tf](../assets/chapter-V/deploy-backend.png)
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo AngelDevs.
 
