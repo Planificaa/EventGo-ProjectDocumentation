@@ -1706,3 +1706,14 @@ Enlace al video acerca del producto: [https://tinyurl.com/4xu4a6pe ](https://upc
 <p align="center">
   <img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/main/img/Chapter%20V/Captura.PNG?raw=true">
 </p>
+
+## 5.5. Video About The Team
+
+En esta sección, se adjunta el enlace al video que presenta al equipo de trabajo que desarrolló el producto de software. En este video, cada miembro del equipo comparte su rol y contribuciones al proyecto, destacando la colaboración y el esfuerzo conjunto para crear una solución efectiva.
+
+Enlace al video acerca del equipo de trabajo que desarrollo el producto de software:
+[https://tinyurl.com/3njvnauz ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319950_upc_edu_pe/IQADmJrw6xgvSJ_4CcIzZ0X3AY2lpGw0x3ClL1QjKWKc5ww?e=BnaBUV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<p align="center">
+  <img src="https://github.com/Planificaa/EventGo-ProjectDocumentation/blob/main/img/Chapter%20V/abouuththeteam.PNG?raw=true">
+</p>
