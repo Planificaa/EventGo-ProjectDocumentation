@@ -1437,6 +1437,125 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 |Timing: 0:00–11:36|**Resumen:** La entrevista se realizó a **Diego Vilca**, de 20 años, centrada en evaluar la experiencia visual y la navegabilidad de **EventGo**. Comentó que la landing page está bien organizada y que las secciones de próximos eventos, testimonios, preguntas frecuentes y planes resultan claras. Destacó el uso de colores, la distribución de elementos y la navegación mediante la barra lateral. Probó el registro seleccionando rol, editó su perfil y probó el cambio de idioma sin dificultad. En el módulo de eventos visualizó imágenes, precios, disponibilidad y opciones de editar o crear nuevos. Sobre reportes, entendió rápidamente funciones como ventas, cancelaciones y asistencia por evento, mencionando que están bien divididas. Finalmente, valoró las alertas de aforo y recomendó añadir accesos rápidos para gestionar entradas y visualizar ventas en tiempo real. **Satisfacción del flujo:** 4.7/5|
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+#### APP EVALUADA: **EventGo**
+
+---
+
+#### TAREAS EVALUADAS
+
+1. Registro de usuario  
+2. Inicio de sesión  
+3. Creación de un evento  
+4. Gestión de cotizaciones (Quotes)  
+5. Revisión de mensajes (Messages)  
+6. Navegación desde el Dashboard  
+7. Cambio de idioma  
+8. Uso del menú superior (perfil, notificaciones, configuración y cierre de sesión)
+
+**Tareas NO evaluadas en esta versión:**
+
+1. Gestión avanzada de asistentes  
+2. Exportación de reportes  
+3. Integración de métodos de pago reales  
+
+---
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|------|-------------|
+| **1** | Inconveniente leve que no afecta el uso general. Baja prioridad. |
+| **2** | Contratiempo moderado que altera el flujo normal. Prioridad media. |
+| **3** | Problema significativo que puede bloquear o confundir al usuario. Alta prioridad. |
+| **4** | Falla crítica que impide continuar con las tareas principales. Corrección obligatoria. |
+
+---
+
+### TABLA RESUMEN DE PROBLEMAS
+
+| # | Problema | Severidad | Heurística afectada |
+|---|----------|-----------|---------------------|
+| **1** | El formulario de login no muestra mensajes claros cuando un campo es inválido. | 3 | Visibilidad del estado del sistema / Manejo de errores |
+| **2** | El registro permite contraseñas demasiado simples sin advertencias. | 2 | Prevención de errores |
+| **3** | El icono de notificaciones (campana) no muestra menú, estado ni cantidad de notificaciones. | 2 | Visibilidad del estado del sistema |
+| **4** | La navegación entre módulos no ofrece señalización clara de en qué sección está el usuario. | 1 | Correspondencia entre sistema y mundo real / Estética y diseño minimalista |
+
+---
+
+## DESCRIPCIÓN DETALLADA DE PROBLEMAS
+
+---
+
+### **PROBLEMA #1: El formulario de inicio de sesión no muestra retroalimentación clara cuando un campo es inválido**
+
+**Severidad:** 3  
+**Heurística afectada:** Visibilidad del estado del sistema / Manejo de errores
+
+**Descripción:**  
+Si el usuario ingresa un correo incorrecto o deja campos vacíos, el sistema no muestra mensajes visibles que indiquen qué está mal o cómo corregirlo. Esto genera confusión y obliga al usuario a intentar varias veces sin orientación.
+
+**Recomendación:**  
+Agregar mensajes de error específicos como:  
+- “El correo ingresado no es válido”  
+- “Este campo es obligatorio”  
+- “La contraseña debe tener al menos 8 caracteres”  
+
+---
+
+### **PROBLEMA #2: El registro permite contraseñas débiles sin advertencias**
+
+**Severidad:** 2  
+**Heurística afectada:** Prevención de errores
+
+**Descripción:**  
+Durante el registro, EventGo permite contraseñas muy simples (ej: “123456”, “abc”), sin mostrar advertencias ni requisitos mínimos. Esto disminuye la seguridad y puede generar accesos no autorizados.
+
+**Recomendación:**  
+Implementar validaciones como:  
+- Mínimo 8 caracteres  
+- Al menos 1 número  
+- 1 mayúscula  
+- 1 símbolo  
+
+---
+
+### **PROBLEMA #3: El icono de notificaciones (campana) no muestra actividad ni acciones**
+
+**Severidad:** 2  
+**Heurística afectada:** Visibilidad del estado del sistema
+
+**Descripción:**  
+En la barra superior aparece una campana que sugiere la existencia de notificaciones. Sin embargo:
+
+- No hay contador (“badge”)  
+- No aparece un menú desplegable  
+- No se indica si existen nuevas notificaciones o si la función está deshabilitada  
+
+Esto confunde al usuario, pues el icono parece funcional, pero no ofrece feedback.
+
+**Recomendación:**  
+- Mostrar un dropdown con notificaciones recientes  
+- Agregar un badge (ej. “3”) si hay actividad  
+- Si no está implementado, mostrar mensaje: “No notifications yet”  
+
+---
+
+### **PROBLEMA #4: La navegación no resalta la sección activa**
+
+**Severidad:** 1  
+**Heurística afectada:** Estética y diseño minimalista / Correspondencia entre sistema y mundo real
+
+**Descripción:**  
+Cuando el usuario navega a módulos como *Events*, *Quotes*, *Messages* o *Dashboard*, el menú superior no cambia visualmente para mostrar cuál es la sección actual. Esto hace la orientación menos intuitiva.
+
+**Recomendación:**  
+- Resaltar el módulo activo con color, subrayado o fondo  
+- Mantener consistencia en todos los módulos  
+
+---
+
+
 ## 5.4. Video About-the-Product
 
 En esta sección, se adjunta el enlace al video sobre el producto de software desarrollado. En este video, se detallan funcionalidades principales y beneficios que ofrece la aplicacion a los usuarios finales que usaran la aplicacion web para sus negocios.
