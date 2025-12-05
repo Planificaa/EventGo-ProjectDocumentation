@@ -1373,7 +1373,89 @@ A continuación, se mostrarán los commits últimos registrados en el repositori
   </tr>
 </table>
 
-#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de ejecución correspondientes al sprint, mostrando las funcionalidades implementadas en la plataforma **EventGO**. Se detallan los avances realizados tanto en la **Landing Page**, como en la **aplicación Frontend** y la **aplicación Backend**, junto con capturas que reflejan el estado actual del sistema.
+
+Durante este sprint, uno de los principales logros fue la integración completa del frontend con los servicios REST del backend, permitiendo que módulos como **Eventos, Cotizaciones, Mensajes y Panel de Control (Dashboard)** se comuniquen correctamente. Además, se realizaron mejoras visuales en la barra de navegación, gestión del idioma, perfil del usuario e indicadores de notificaciones.
+
+Finalmente, se desarrollaron endpoints en el backend relacionados con la gestión de eventos, cotizaciones, envío de mensajes, autenticación, perfiles de usuario y módulos administrativos.
+
+A continuación, se muestran las capturas de pantalla de las secciones implementadas.
+
+---
+
+## **Landing Page**
+
+La Landing Page fue mejorada para presentar de forma clara los beneficios de la plataforma EventGO, incorporando secciones informativas y una estructura más accesible para el usuario.
+
+Visualización de la barra superior y navegación principal:  
+![LandingPage](img/Chapter%20IV/laningpage.png)
+
+---
+
+## **Frontend Application (EventGO Web App)**
+
+En la aplicación frontend se implementaron y validaron los siguientes módulos: **Dashboard**, **Events**, **Quotes**, **Messages**, selector de idioma, ajustes del usuario y cierre de sesión.
+
+### **Barra de navegación principal**
+
+En esta sección se puede observar la barra de navegación donde se ubican:  
+- El logotipo de EventGO  
+- Dashboard  
+- Events  
+- Quotes  
+- Messages  
+- Selector de idioma  
+- Ícono de configuración  
+- Foto de perfil del usuario  
+- Botón de *Sign out*
+
+![NavbarFrontend](img/Chapter%20IV/navbarfrntend.png)
+
+---
+
+### **Sección de Events**
+Interfaz donde el usuario puede registrar, listar y gestionar los eventos creados.
+
+![EventsFrontend](img/Chapter%20IV/eventsfrntend.png)
+
+---
+
+### **Sección de Quotes**
+Pantalla donde se administran las cotizaciones solicitadas por los clientes.
+
+![QuotesFrontend](img/Chapter%20IV/quotesrontend.png)
+
+---
+
+### **Sección de Messages**
+Módulo de mensajería interna que permite visualizar comunicaciones relacionadas con eventos o clientes.
+
+![MessagesFrontend](img/Chapter%20IV/messagsfrontend.png)
+
+---
+
+## **Backend Application (EventGO API)**
+
+La aplicación backend expone los servicios REST que permiten el funcionamiento del sistema. Durante este sprint se completaron los endpoints para:
+
+- Gestión de eventos  
+- Gestión de cotizaciones  
+- Sistema de mensajería  
+- Perfiles y autenticación  
+- Configuración del usuario  
+- Administración del dashboard  
+
+A continuación se muestran capturas de la estructura de rutas y endpoints del backend.
+
+### **Endpoints principales del backend**
+
+![BackendEndpoints1](img/Chapter%20IV/backendndpoints1.png)
+
+![BackendEndpoints2](img/Chapter%20IV/backendendoints2.png)
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
